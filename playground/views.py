@@ -21,4 +21,6 @@ def index(request):
     return render(request,"index.html")
 
 def about(request,name):
-    return render(request,"about.html",{"name":name})
+    title = "about page"
+    s = "what's up"
+    return render(request,"about.html",{"title":title,"s":s,"name":name})
