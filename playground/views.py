@@ -24,3 +24,18 @@ def about(request,name):
     title = "about page"
     s = "what's up"
     return render(request,"about.html",{"title":title,"s":s,"name":name})
+
+def form(request):
+    title = "Application form"
+    if request.method == "POST":
+        title = "Output"
+        email = request.POST.get("email")
+        password = request.POST.get("password")
+        address = request.POST.get("address")
+        address2 = request.POST.get("address2")
+        city = request.POST.get("city")
+        state = request.POST.get("state")
+        zi = request.POST.get("zip")
+        # print(email,password,address,address2,city,state,zi,sep="\n")
+        return render(request,"output.html",{"title":title,"email":email,"password":password,"address":address,"address2":address2,"city":city,"state":state,"zip":zi})
+    return render(request,"form.html",{"title":title})

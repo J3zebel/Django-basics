@@ -7,5 +7,6 @@ urlpatterns = [
     path('yourname/<str:name>', views.your_name,name='yourname'),
     path('add/<int:num1>/<int:num2>', views.add,name='add'),
     path('index',views.index,name='index'),
-    path('about/<str:name>', views.about,name="about")
+    path('about/<str:name>', views.about,name="about"),
+    path('form/',views.form,name="form"),
 ]
