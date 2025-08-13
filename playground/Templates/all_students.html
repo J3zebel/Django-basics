@@ -1,0 +1,7 @@
+<ul>
+    {% for i in students %}
+    <li>{{i.name}}</li>
+    {% endfor %}
+
+    <a href="{% url 'name' %}">click me</a>
+</ul>

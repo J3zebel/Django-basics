@@ -5,12 +5,15 @@
     <title>{{title}}</title>
 </head>
 <body>
-    Email   : {{email}} <br><br>
-    password : {{password}} <br><br>
-    Address :{{address}} <br><br>
-    Address2 : {{address2}} <br><br>
-    City : {{city}} <br><br>
-    State : {{state}} <br><br>
-    Zip : {{zip}} <br><br>
+    <table>
+        <tr>
+            <td>Username</td>
+        </tr>
+        <tr>
+            {% for i in list %}
+            <td>{{i}}</td>
+            {% endfor %}
+        </tr>
+    </table>
 </body>
 </html>
