@@ -13,5 +13,6 @@ urlpatterns = [
     path('reg/',views.reg,name="reg"),
     path('form/',views.form,name="form"),
     path('all/',views.getdata,name="alldata"),
-    path("getid/<int:id>",views.get_by_id,name="getidby")
+    path("getid/<int:id>",views.get_by_id,name="getidby"),
+    path("del/<int:id>", views.del_by_id,name="del")
 ]

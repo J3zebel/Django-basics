@@ -1,7 +1,26 @@
 <ul>
-    {% for i in students %}
-    <li>{{i.name}}</li>
-    {% endfor %}
+        <table border="1">
+        <tr>
+            <td>id</td>
+            <td>name</td>
+            <td>email</td>
+            <td>Detail</td>
+            <td>Delete</td>
+        </tr>
+    {% for student in students %}
 
-    <a href="{% url 'name' %}">click me</a>
+        <tr>
+            <td>{{ student.id }}</td>
+            <td>{{ student.name }}</td>
+            <td>{{student.email }}</td>
+            <td>
+                <a href={% url 'getidby' id=student.id %}>details</a>
+            </td>
+            <td><a href="{% url 'del' id=student.id %}">delete</a></td>
+        </tr>
+
+    
+    {% endfor %}
+        </table>
+
 </ul>

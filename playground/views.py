@@ -87,6 +87,13 @@ def getdata(request):
 
 
 def get_by_id(request,id):
-    # student = Student.objects.get(pk=id)
-    students = Student.objects.filter(name="Amina")
-    return render(request,"student.html",{'student':students})
+    student = Student.objects.get(pk=id)
+    # students = Student.objects.filter(name="Amina")
+    return render(request,"student.html",{'student':student})
+
+def del_by_id(request,id):
+    student =  Student.objects.get(pk=id)
+    student.delete()
+    # return HttpResponse("Deleted successfully")
+    return redirect("alldata")
+
