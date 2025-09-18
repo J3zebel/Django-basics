@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        .error{
+            color: red;
+        }
+        .success{
+            color: green;
+        }
+    </style>
+
+</head>
+<body>
+    {% if messages %}
+        {% for message in messages %}
+            <h3 class="{{message.tags}}">{{message}}</h3>
+        {% endfor%}
+    {% else %}
+        <form method="POST"  >
+          {% csrf_token %}
+          Email:<input type="text" name="email" ><br>
+          Password:<input type="text" name="password" ><br>
+          <input type="submit">
+        </form>
+    {% endif %}
+</body>
+</html>

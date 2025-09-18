@@ -4,6 +4,11 @@ from django.urls import reverse
 from . import Sql
 from .forms import StudentForm
 from .model import Student
+from .emailservice import mail_sender
+from http.cookiejar import request_port 
+from django.contrib.auth.hashers import check_password
+from django.contrib import messages
+from .emailservice import mail_sender, verification_mail
 
 
 # Create your views here.
@@ -22,7 +27,17 @@ def add(request,num1,num2):
     return HttpResponse(f"{num1} + {num2} = {num1+num2}")
 
 def index(request):
-    return render(request,"index.html")
+
+    try :
+        # email = request.session['email']
+        email = request.COOKIES.get("email")
+        print(email)
+        if email is not None:
+            student = Student.objects.get(email=email)
+            return render(request, "index.html", {'user_name': student.name})
+        return redirect('login')
+    except Exception as e:
+        return redirect('login')
 
 
 def about(request,name):
@@ -97,3 +112,54 @@ def del_by_id(request,id):
     # return HttpResponse("Deleted successfully")
     return redirect("alldata")
 
+
+def contact(request):
+    if request.method == 'POST':
+        to = request.POST.get("to")
+        subject = request.POST.get("subject")
+        text = request.POST.get("text")
+        mail_sender(to,subject,text)
+    return render(request,'contact.html')
+
+
+def login(request):
+    if request.method == 'POST':
+        email = request.POST.get("email")
+        password = request.POST.get("password")
+        try :
+            student = Student.objects.get(email=email)
+            print(student.passw)
+            if check_password(password,student.passw):
+
+                # request.session['email'] = email
+                # messages.success(request,"Login Success")
+                response = redirect('index')
+                response.set_cookie("email",email,max_age=3600)
+                return response
+            else :
+                messages.error(request,"Wrong Password")
+        except Exception as e:
+            messages.error(request,"User Not Fount")
+    return render(request, 'login.html')
+
+
+
+def regis(request):         
+    title ='title'
+    if request.method == 'POST':
+        form = StudentForm(request.POST,request.FILES)
+
+        if form.is_valid():
+            student = form.save(commit=False)
+
+            verification_mail(student)
+
+            print (student)
+            # student.set_password(form.cleaned_data['passw'])
+            student.save()
+            return redirect('index')
+        else:
+            print(form.errors)
+            return render(request, 'form.html', {'form': form,'error':form.errors})
+    form = StudentForm()
+    return render(request,'form.html',{'form':form})
