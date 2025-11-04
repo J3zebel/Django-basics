@@ -1,0 +1,801 @@
+ApplicantID,Gender,Married,Education,SelfEmployed,ApplicantIncome,LoanAmount,CreditHistory,PropertyArea,Approved
+APP0001,Male,Yes,Not Graduate,Yes,13246,12296,Good,Urban,Yes
+APP0002,Female,No,Graduate,No,15790,30398,Bad,Urban,Yes
+APP0003,Male,Yes,Graduate,No,13738,40842,Bad,Urban,No
+APP0004,Male,Yes,Graduate,No,16730,18261,Bad,Semiurban,Yes
+APP0005,Male,No,Graduate,Yes,13120,16173,Good,Urban,Yes
+APP0006,Female,No,Not Graduate,No,10767,35449,Good,Rural,No
+APP0007,Male,No,Not Graduate,Yes,15703,46080,Good,Rural,No
+APP0008,Male,Yes,Not Graduate,No,2929,6637,Good,Urban,Yes
+APP0009,Male,No,Graduate,No,13951,36781,Good,Urban,No
+APP0010,Female,Yes,Graduate,No,17845,18652,Good,Rural,No
+APP0011,Male,Yes,Not Graduate,No,19438,10103,Good,Urban,Yes
+APP0012,Male,Yes,Not Graduate,No,17747,30500,Bad,Rural,No
+APP0013,Male,Yes,Graduate,No,7744,39800,Good,Semiurban,Yes
+APP0014,Male,No,Not Graduate,No,11649,40529,Good,Rural,No
+APP0015,Female,No,Not Graduate,No,8980,23452,Good,Semiurban,No
+APP0016,Male,Yes,Graduate,No,9069,36174,Good,Urban,Yes
+APP0017,Female,Yes,Graduate,No,11591,40436,Good,Urban,No
+APP0018,Female,Yes,Graduate,No,2442,20954,Good,Semiurban,No
+APP0019,Female,No,Graduate,No,6652,22186,Good,Urban,No
+APP0020,Male,Yes,Graduate,No,11370,17356,Good,Semiurban,Yes
+APP0021,Female,Yes,Not Graduate,No,9597,37963,Good,Urban,No
+APP0022,Male,No,Graduate,Yes,16325,7187,Good,Rural,Yes
+APP0023,Female,No,Graduate,No,6458,16707,Good,Urban,No
+APP0024,Female,Yes,Graduate,No,8591,40098,Bad,Rural,No
+APP0025,Female,No,Graduate,Yes,18346,31935,Good,Rural,No
+APP0026,Female,No,Not Graduate,No,13826,26225,Good,Semiurban,Yes
+APP0027,Female,Yes,Graduate,No,16138,8606,Good,Urban,Yes
+APP0028,Female,No,Graduate,No,19294,37828,Bad,Semiurban,No
+APP0029,Female,Yes,Not Graduate,Yes,4169,31489,Bad,Urban,No
+APP0030,Female,No,Graduate,No,8313,19387,Good,Rural,No
+APP0031,Male,Yes,Graduate,No,10315,8927,Good,Rural,Yes
+APP0032,Male,Yes,Graduate,No,10036,11296,Bad,Urban,No
+APP0033,Female,Yes,Graduate,No,2785,35444,Good,Urban,No
+APP0034,Female,No,Graduate,No,8139,7591,Good,Semiurban,No
+APP0035,Female,Yes,Graduate,No,8344,49895,Good,Urban,No
+APP0036,Male,No,Graduate,No,16973,31147,Bad,Urban,Yes
+APP0037,Female,Yes,Not Graduate,No,7619,43889,Bad,Urban,No
+APP0038,Male,Yes,Graduate,Yes,3936,6200,Good,Semiurban,No
+APP0039,Male,No,Graduate,No,5807,20721,Good,Urban,No
+APP0040,Male,Yes,Graduate,No,9151,24238,Good,Rural,No
+APP0041,Male,Yes,Graduate,No,11493,16087,Good,Semiurban,Yes
+APP0042,Male,No,Graduate,No,14355,35816,Bad,Semiurban,No
+APP0043,Female,Yes,Graduate,No,5236,28408,Good,Rural,No
+APP0044,Female,Yes,Not Graduate,No,17848,44740,Good,Rural,No
+APP0045,Female,Yes,Graduate,Yes,4352,5136,Good,Rural,No
+APP0046,Female,Yes,Graduate,No,3932,22413,Good,Urban,Yes
+APP0047,Female,No,Graduate,Yes,12913,23978,Good,Rural,Yes
+APP0048,Male,No,Not Graduate,No,10556,5661,Good,Urban,Yes
+APP0049,Female,Yes,Graduate,No,7498,40240,Good,Semiurban,Yes
+APP0050,Female,No,Graduate,No,12582,32253,Good,Semiurban,Yes
+APP0051,Male,Yes,Graduate,Yes,19330,31884,Good,Rural,Yes
+APP0052,Female,No,Not Graduate,No,15865,37854,Good,Urban,Yes
+APP0053,Male,Yes,Graduate,No,11569,15704,Good,Rural,Yes
+APP0054,Female,Yes,Not Graduate,No,19823,43987,Bad,Rural,No
+APP0055,Male,Yes,Graduate,Yes,6857,29527,Bad,Urban,Yes
+APP0056,Female,Yes,Graduate,No,2340,21322,Bad,Rural,Yes
+APP0057,Female,Yes,Graduate,No,13181,11968,Good,Semiurban,Yes
+APP0058,Male,Yes,Graduate,No,18766,32518,Bad,Rural,Yes
+APP0059,Male,No,Graduate,No,10491,32886,Good,Urban,Yes
+APP0060,Male,Yes,Graduate,No,2138,6700,Good,Urban,Yes
+APP0061,Male,No,Not Graduate,No,2358,33246,Good,Semiurban,No
+APP0062,Male,Yes,Graduate,No,11714,40468,Good,Urban,No
+APP0063,Male,No,Graduate,No,3627,28199,Good,Urban,No
+APP0064,Male,No,Graduate,No,17996,49589,Good,Semiurban,No
+APP0065,Male,No,Graduate,No,7004,37115,Good,Rural,No
+APP0066,Female,Yes,Graduate,No,15283,10520,Good,Semiurban,Yes
+APP0067,Female,Yes,Graduate,No,8652,49278,Good,Rural,Yes
+APP0068,Male,No,Graduate,No,4151,41455,Good,Semiurban,No
+APP0069,Female,Yes,Not Graduate,Yes,11429,25929,Good,Rural,No
+APP0070,Female,No,Not Graduate,No,16072,46605,Bad,Semiurban,No
+APP0071,Female,Yes,Graduate,No,13927,19955,Bad,Rural,Yes
+APP0072,Female,No,Graduate,No,8905,49049,Good,Semiurban,No
+APP0073,Male,No,Graduate,No,14452,18917,Good,Rural,No
+APP0074,Female,Yes,Graduate,No,18212,9757,Good,Semiurban,Yes
+APP0075,Male,No,Graduate,No,3307,18045,Bad,Urban,No
+APP0076,Female,Yes,Graduate,No,16852,46680,Good,Rural,Yes
+APP0077,Female,No,Not Graduate,Yes,4660,9733,Good,Semiurban,No
+APP0078,Female,No,Graduate,No,12403,35954,Good,Rural,Yes
+APP0079,Male,Yes,Graduate,Yes,12238,36135,Good,Rural,Yes
+APP0080,Female,Yes,Graduate,No,8207,12081,Good,Semiurban,No
+APP0081,Male,Yes,Graduate,No,3140,46458,Bad,Rural,No
+APP0082,Female,No,Graduate,No,3708,28501,Good,Semiurban,No
+APP0083,Male,Yes,Graduate,No,5630,26113,Good,Urban,Yes
+APP0084,Female,No,Graduate,No,12485,39441,Bad,Rural,No
+APP0085,Male,No,Not Graduate,Yes,14021,29690,Bad,Urban,No
+APP0086,Male,Yes,Graduate,No,18859,48939,Good,Rural,Yes
+APP0087,Female,Yes,Graduate,No,9684,34345,Good,Rural,No
+APP0088,Male,No,Graduate,No,3207,49571,Good,Rural,No
+APP0089,Female,No,Graduate,No,15331,31829,Bad,Semiurban,No
+APP0090,Female,Yes,Graduate,No,3960,40062,Good,Urban,No
+APP0091,Female,Yes,Not Graduate,Yes,2557,8630,Bad,Rural,No
+APP0092,Female,Yes,Not Graduate,No,17883,36870,Good,Semiurban,No
+APP0093,Female,Yes,Not Graduate,No,15893,49942,Good,Rural,No
+APP0094,Female,Yes,Graduate,Yes,2882,8453,Good,Semiurban,Yes
+APP0095,Female,No,Graduate,No,6761,42275,Good,Rural,No
+APP0096,Female,No,Graduate,Yes,7867,48370,Good,Urban,Yes
+APP0097,Female,No,Graduate,Yes,14869,43396,Good,Urban,No
+APP0098,Female,No,Not Graduate,Yes,9166,13328,Good,Rural,Yes
+APP0099,Female,Yes,Graduate,No,14982,20534,Bad,Semiurban,No
+APP0100,Male,Yes,Graduate,No,9929,24744,Good,Rural,No
+APP0101,Male,Yes,Graduate,No,7347,24389,Good,Semiurban,No
+APP0102,Female,No,Graduate,No,9269,41320,Good,Rural,No
+APP0103,Female,No,Graduate,No,15527,40010,Good,Semiurban,Yes
+APP0104,Female,Yes,Graduate,No,4454,19665,Good,Urban,Yes
+APP0105,Female,Yes,Graduate,No,14991,42865,Good,Rural,Yes
+APP0106,Female,No,Not Graduate,Yes,4808,13640,Bad,Urban,Yes
+APP0107,Female,No,Not Graduate,No,8642,39716,Good,Urban,No
+APP0108,Female,Yes,Graduate,No,5825,30521,Good,Rural,No
+APP0109,Female,Yes,Graduate,No,5536,35049,Good,Rural,No
+APP0110,Male,No,Graduate,No,17309,10618,Good,Semiurban,Yes
+APP0111,Female,Yes,Graduate,Yes,5802,42004,Good,Semiurban,Yes
+APP0112,Male,Yes,Graduate,Yes,8142,6920,Bad,Urban,No
+APP0113,Female,Yes,Graduate,No,11094,48937,Bad,Semiurban,No
+APP0114,Female,No,Graduate,No,2364,9188,Good,Semiurban,No
+APP0115,Male,No,Graduate,Yes,17688,17207,Good,Rural,Yes
+APP0116,Female,No,Graduate,No,3863,5238,Good,Semiurban,No
+APP0117,Male,No,Graduate,Yes,18499,37972,Good,Urban,Yes
+APP0118,Female,No,Not Graduate,No,9084,15799,Good,Semiurban,No
+APP0119,Female,No,Not Graduate,No,10016,10552,Good,Urban,No
+APP0120,Male,No,Graduate,No,4384,33916,Good,Rural,Yes
+APP0121,Female,Yes,Not Graduate,Yes,17072,9927,Good,Urban,Yes
+APP0122,Male,Yes,Graduate,Yes,5935,32964,Good,Semiurban,No
+APP0123,Female,Yes,Not Graduate,No,15127,16164,Good,Rural,No
+APP0124,Male,Yes,Not Graduate,Yes,16482,42158,Good,Semiurban,Yes
+APP0125,Male,Yes,Graduate,No,9742,24071,Good,Rural,Yes
+APP0126,Female,Yes,Graduate,Yes,18165,11160,Bad,Rural,Yes
+APP0127,Female,Yes,Graduate,No,4490,20810,Good,Semiurban,No
+APP0128,Male,No,Graduate,No,15324,10126,Good,Semiurban,Yes
+APP0129,Female,No,Graduate,No,3137,35009,Good,Rural,No
+APP0130,Female,Yes,Graduate,No,5420,38584,Bad,Rural,No
+APP0131,Female,Yes,Graduate,No,7845,30396,Good,Semiurban,No
+APP0132,Male,No,Not Graduate,No,5906,5192,Good,Urban,Yes
+APP0133,Male,Yes,Not Graduate,No,14413,41413,Good,Semiurban,No
+APP0134,Male,Yes,Graduate,No,2276,17816,Good,Rural,Yes
+APP0135,Male,No,Graduate,Yes,19611,44082,Bad,Semiurban,Yes
+APP0136,Male,Yes,Graduate,No,8337,37130,Good,Urban,No
+APP0137,Male,No,Graduate,No,13944,45142,Bad,Semiurban,No
+APP0138,Male,Yes,Not Graduate,Yes,17906,41468,Bad,Rural,No
+APP0139,Male,No,Graduate,No,19079,35698,Bad,Semiurban,No
+APP0140,Male,No,Graduate,No,14306,15655,Good,Rural,Yes
+APP0141,Female,No,Graduate,No,12503,35075,Good,Rural,No
+APP0142,Male,Yes,Graduate,No,6208,14359,Good,Semiurban,Yes
+APP0143,Female,No,Graduate,No,13590,41661,Good,Rural,No
+APP0144,Female,Yes,Not Graduate,Yes,12886,44579,Good,Rural,No
+APP0145,Female,Yes,Graduate,No,14866,47056,Good,Urban,Yes
+APP0146,Male,Yes,Graduate,No,3088,38272,Good,Urban,Yes
+APP0147,Male,Yes,Graduate,Yes,5363,47581,Good,Urban,Yes
+APP0148,Male,No,Not Graduate,No,2024,19671,Bad,Urban,No
+APP0149,Male,No,Not Graduate,No,11764,32048,Good,Rural,Yes
+APP0150,Female,Yes,Graduate,Yes,11959,15738,Bad,Semiurban,Yes
+APP0151,Male,Yes,Graduate,No,14935,30963,Good,Rural,Yes
+APP0152,Male,No,Graduate,No,10068,48954,Bad,Rural,No
+APP0153,Male,Yes,Graduate,Yes,9295,11773,Good,Rural,Yes
+APP0154,Male,No,Not Graduate,No,10392,41584,Good,Semiurban,No
+APP0155,Male,Yes,Graduate,No,13390,34894,Bad,Urban,No
+APP0156,Female,Yes,Graduate,No,10448,5717,Good,Rural,Yes
+APP0157,Male,No,Graduate,No,12433,16676,Bad,Rural,No
+APP0158,Female,Yes,Graduate,No,17038,9434,Good,Urban,Yes
+APP0159,Male,No,Graduate,Yes,13528,42825,Good,Rural,Yes
+APP0160,Female,Yes,Not Graduate,No,17743,34100,Good,Semiurban,No
+APP0161,Male,Yes,Graduate,No,10605,9994,Good,Rural,Yes
+APP0162,Male,Yes,Graduate,No,4014,9234,Good,Rural,Yes
+APP0163,Female,No,Graduate,Yes,3381,8764,Good,Urban,Yes
+APP0164,Female,Yes,Graduate,No,3098,48949,Good,Rural,No
+APP0165,Female,Yes,Graduate,Yes,11101,42405,Good,Rural,No
+APP0166,Male,Yes,Graduate,No,2187,39872,Bad,Semiurban,No
+APP0167,Female,Yes,Not Graduate,No,13948,47215,Bad,Urban,No
+APP0168,Male,No,Graduate,No,12207,28185,Good,Urban,Yes
+APP0169,Male,No,Graduate,No,4092,48442,Good,Semiurban,No
+APP0170,Female,Yes,Graduate,No,7242,46153,Good,Rural,No
+APP0171,Female,No,Graduate,No,10549,16999,Good,Urban,Yes
+APP0172,Male,Yes,Not Graduate,No,7185,41487,Bad,Urban,No
+APP0173,Male,Yes,Not Graduate,No,17271,7581,Bad,Rural,No
+APP0174,Female,Yes,Graduate,No,7776,7763,Good,Rural,Yes
+APP0175,Female,No,Graduate,No,14449,32374,Good,Urban,Yes
+APP0176,Female,No,Graduate,No,9823,43759,Good,Rural,No
+APP0177,Male,No,Graduate,No,17717,15531,Bad,Urban,Yes
+APP0178,Male,No,Graduate,No,9355,30307,Good,Rural,No
+APP0179,Male,No,Graduate,No,8465,35835,Good,Rural,Yes
+APP0180,Male,No,Graduate,No,14737,16064,Good,Semiurban,Yes
+APP0181,Male,No,Graduate,Yes,19881,16312,Good,Rural,Yes
+APP0182,Male,No,Not Graduate,No,15324,42548,Good,Semiurban,No
+APP0183,Female,No,Graduate,No,12350,41945,Bad,Rural,No
+APP0184,Male,Yes,Graduate,No,4555,11476,Good,Urban,No
+APP0185,Male,No,Not Graduate,No,4951,29565,Good,Urban,No
+APP0186,Male,No,Graduate,No,19622,7382,Good,Rural,Yes
+APP0187,Female,No,Graduate,No,6727,27463,Good,Rural,Yes
+APP0188,Male,No,Graduate,No,7686,38402,Good,Urban,No
+APP0189,Male,No,Graduate,Yes,5701,31345,Good,Rural,No
+APP0190,Female,No,Not Graduate,No,4780,49764,Good,Semiurban,No
+APP0191,Male,No,Not Graduate,Yes,19972,31946,Good,Semiurban,Yes
+APP0192,Male,No,Graduate,No,4368,19162,Good,Semiurban,Yes
+APP0193,Male,No,Graduate,No,17592,13397,Good,Semiurban,Yes
+APP0194,Male,No,Graduate,No,2436,27335,Bad,Semiurban,No
+APP0195,Male,No,Graduate,Yes,4828,19394,Good,Rural,Yes
+APP0196,Female,Yes,Graduate,Yes,3556,32197,Good,Rural,No
+APP0197,Female,Yes,Not Graduate,No,15364,27010,Good,Semiurban,No
+APP0198,Female,No,Graduate,Yes,17061,29123,Good,Rural,No
+APP0199,Male,No,Not Graduate,Yes,12576,27387,Good,Rural,No
+APP0200,Male,Yes,Graduate,Yes,18566,7890,Good,Semiurban,Yes
+APP0201,Male,No,Graduate,No,9190,32769,Good,Rural,No
+APP0202,Female,Yes,Graduate,No,7565,48626,Good,Rural,No
+APP0203,Male,Yes,Not Graduate,No,17369,13026,Good,Rural,No
+APP0204,Male,Yes,Not Graduate,No,3589,8306,Bad,Semiurban,No
+APP0205,Female,Yes,Not Graduate,No,2159,38665,Bad,Rural,Yes
+APP0206,Male,Yes,Graduate,No,14145,14277,Good,Urban,Yes
+APP0207,Female,No,Graduate,No,17373,47239,Good,Urban,Yes
+APP0208,Female,Yes,Not Graduate,Yes,8555,19683,Bad,Semiurban,No
+APP0209,Female,No,Graduate,Yes,18237,5670,Bad,Urban,Yes
+APP0210,Male,No,Graduate,Yes,11203,28675,Good,Semiurban,Yes
+APP0211,Male,Yes,Graduate,No,10244,22889,Good,Urban,Yes
+APP0212,Male,Yes,Not Graduate,No,16743,49535,Good,Urban,Yes
+APP0213,Male,No,Not Graduate,No,15333,18006,Good,Urban,Yes
+APP0214,Male,Yes,Graduate,Yes,15341,31531,Good,Semiurban,Yes
+APP0215,Male,Yes,Not Graduate,Yes,3228,26639,Good,Semiurban,No
+APP0216,Male,No,Not Graduate,No,7590,21633,Good,Rural,No
+APP0217,Female,No,Graduate,No,7585,39660,Good,Semiurban,No
+APP0218,Male,Yes,Graduate,No,11227,8439,Good,Urban,Yes
+APP0219,Female,No,Not Graduate,No,8046,37172,Good,Urban,No
+APP0220,Male,Yes,Graduate,No,14237,40622,Good,Semiurban,No
+APP0221,Male,Yes,Graduate,No,17649,16577,Good,Semiurban,Yes
+APP0222,Male,Yes,Graduate,Yes,6945,16763,Good,Semiurban,Yes
+APP0223,Female,No,Not Graduate,No,9927,25176,Bad,Rural,Yes
+APP0224,Female,No,Not Graduate,No,14641,49386,Good,Urban,Yes
+APP0225,Female,No,Not Graduate,No,17998,29255,Good,Rural,Yes
+APP0226,Female,No,Graduate,No,15386,46003,Good,Rural,No
+APP0227,Male,No,Not Graduate,Yes,9016,24996,Good,Urban,No
+APP0228,Female,Yes,Not Graduate,No,16027,40386,Bad,Urban,No
+APP0229,Male,Yes,Graduate,No,17920,26062,Good,Semiurban,Yes
+APP0230,Male,Yes,Not Graduate,No,15752,40931,Good,Semiurban,No
+APP0231,Female,Yes,Graduate,No,5167,40710,Good,Rural,Yes
+APP0232,Female,No,Graduate,No,13989,39693,Good,Semiurban,No
+APP0233,Female,Yes,Graduate,No,16087,40740,Bad,Semiurban,No
+APP0234,Female,No,Graduate,No,4437,16705,Bad,Urban,No
+APP0235,Female,Yes,Graduate,No,17275,48408,Good,Urban,No
+APP0236,Female,No,Graduate,No,7276,33047,Good,Semiurban,Yes
+APP0237,Female,No,Graduate,Yes,10859,15966,Bad,Urban,No
+APP0238,Female,Yes,Not Graduate,No,9818,22374,Bad,Semiurban,No
+APP0239,Male,Yes,Graduate,No,6728,16138,Good,Urban,No
+APP0240,Female,Yes,Graduate,No,7738,20935,Good,Urban,Yes
+APP0241,Female,Yes,Graduate,No,7793,5489,Good,Urban,No
+APP0242,Male,No,Not Graduate,No,6523,49516,Bad,Urban,No
+APP0243,Female,Yes,Graduate,No,7571,27260,Good,Semiurban,No
+APP0244,Male,Yes,Graduate,No,18209,31069,Good,Rural,Yes
+APP0245,Male,No,Not Graduate,No,17246,24275,Good,Urban,Yes
+APP0246,Female,Yes,Graduate,No,12380,41284,Good,Semiurban,No
+APP0247,Male,Yes,Graduate,Yes,4224,44178,Good,Semiurban,No
+APP0248,Male,Yes,Graduate,Yes,10389,37821,Good,Urban,Yes
+APP0249,Male,Yes,Not Graduate,No,17927,21999,Good,Rural,Yes
+APP0250,Male,Yes,Graduate,No,13684,43712,Good,Urban,No
+APP0251,Female,No,Not Graduate,No,12640,45172,Good,Semiurban,No
+APP0252,Male,Yes,Graduate,No,10662,38722,Good,Rural,No
+APP0253,Female,Yes,Not Graduate,No,8361,15625,Good,Semiurban,No
+APP0254,Male,Yes,Not Graduate,No,3948,6629,Bad,Urban,No
+APP0255,Male,Yes,Not Graduate,No,14091,15973,Good,Rural,Yes
+APP0256,Male,Yes,Graduate,No,13992,11859,Good,Semiurban,Yes
+APP0257,Male,No,Not Graduate,No,8318,46609,Good,Semiurban,No
+APP0258,Female,Yes,Graduate,No,14180,48307,Good,Semiurban,No
+APP0259,Female,No,Graduate,No,2234,41046,Good,Urban,Yes
+APP0260,Male,No,Graduate,No,17372,26839,Good,Rural,Yes
+APP0261,Male,Yes,Not Graduate,No,2522,32216,Good,Urban,Yes
+APP0262,Female,Yes,Not Graduate,No,14718,23945,Good,Urban,No
+APP0263,Male,Yes,Not Graduate,Yes,11821,11539,Good,Urban,Yes
+APP0264,Male,Yes,Graduate,No,7832,38625,Good,Rural,No
+APP0265,Male,No,Graduate,No,14820,9886,Good,Urban,Yes
+APP0266,Female,Yes,Not Graduate,No,18211,12485,Good,Urban,Yes
+APP0267,Female,Yes,Graduate,Yes,9122,36455,Good,Urban,Yes
+APP0268,Female,Yes,Graduate,Yes,7842,21767,Good,Urban,No
+APP0269,Male,Yes,Graduate,Yes,3316,33453,Bad,Semiurban,No
+APP0270,Male,Yes,Graduate,No,15200,15744,Bad,Urban,No
+APP0271,Female,Yes,Graduate,No,19508,42102,Good,Semiurban,No
+APP0272,Female,No,Graduate,No,17206,17226,Good,Urban,Yes
+APP0273,Female,No,Graduate,No,3378,32869,Good,Rural,No
+APP0274,Female,Yes,Graduate,No,3519,27588,Good,Semiurban,No
+APP0275,Male,Yes,Not Graduate,No,9935,18440,Good,Semiurban,No
+APP0276,Female,Yes,Graduate,No,8093,36709,Bad,Semiurban,Yes
+APP0277,Male,No,Graduate,No,7355,27495,Good,Semiurban,No
+APP0278,Female,Yes,Graduate,No,11083,42019,Bad,Rural,No
+APP0279,Male,No,Graduate,No,7574,49948,Good,Urban,No
+APP0280,Female,Yes,Not Graduate,No,15324,5922,Good,Semiurban,Yes
+APP0281,Female,Yes,Not Graduate,No,4257,32526,Good,Rural,No
+APP0282,Female,Yes,Graduate,No,15411,12957,Good,Semiurban,No
+APP0283,Female,Yes,Graduate,No,17233,38998,Good,Urban,Yes
+APP0284,Male,No,Not Graduate,No,17887,48395,Good,Semiurban,No
+APP0285,Female,No,Not Graduate,Yes,4005,29031,Good,Rural,Yes
+APP0286,Male,Yes,Graduate,No,12860,15006,Bad,Urban,Yes
+APP0287,Male,Yes,Graduate,Yes,12070,42701,Good,Rural,Yes
+APP0288,Male,No,Graduate,No,11388,30939,Bad,Urban,Yes
+APP0289,Male,No,Not Graduate,No,16609,25324,Bad,Urban,No
+APP0290,Female,No,Graduate,No,18363,27867,Good,Urban,Yes
+APP0291,Male,No,Not Graduate,Yes,18923,5203,Good,Semiurban,Yes
+APP0292,Male,Yes,Graduate,No,16823,21544,Good,Rural,Yes
+APP0293,Male,No,Graduate,No,19845,20899,Bad,Rural,Yes
+APP0294,Female,Yes,Graduate,No,10547,34063,Good,Rural,Yes
+APP0295,Female,No,Graduate,No,13515,30344,Good,Urban,No
+APP0296,Female,No,Graduate,No,2234,8748,Good,Semiurban,Yes
+APP0297,Female,No,Graduate,No,16562,44486,Good,Urban,No
+APP0298,Male,No,Graduate,Yes,19932,6093,Good,Rural,Yes
+APP0299,Male,No,Not Graduate,No,9480,20228,Good,Semiurban,Yes
+APP0300,Female,Yes,Graduate,No,6213,25884,Good,Semiurban,No
+APP0301,Male,Yes,Graduate,No,12293,30183,Bad,Semiurban,Yes
+APP0302,Male,No,Not Graduate,Yes,3673,21034,Good,Rural,Yes
+APP0303,Male,No,Not Graduate,No,4100,10710,Bad,Semiurban,Yes
+APP0304,Female,Yes,Not Graduate,Yes,13849,47500,Good,Semiurban,No
+APP0305,Female,No,Not Graduate,No,5841,24259,Bad,Urban,No
+APP0306,Male,No,Graduate,No,12197,40959,Good,Urban,No
+APP0307,Female,Yes,Graduate,No,10016,38457,Good,Semiurban,No
+APP0308,Female,No,Not Graduate,No,9011,25143,Good,Semiurban,No
+APP0309,Female,No,Graduate,No,6493,7103,Bad,Urban,Yes
+APP0310,Female,Yes,Graduate,Yes,19058,5365,Good,Urban,Yes
+APP0311,Female,Yes,Not Graduate,No,10578,49535,Bad,Urban,No
+APP0312,Male,Yes,Graduate,No,4158,21103,Bad,Rural,Yes
+APP0313,Female,No,Graduate,No,4064,37510,Good,Rural,Yes
+APP0314,Male,Yes,Graduate,No,5253,29476,Good,Urban,Yes
+APP0315,Male,Yes,Graduate,No,14828,17742,Good,Semiurban,Yes
+APP0316,Female,Yes,Graduate,No,3401,17391,Good,Urban,No
+APP0317,Male,Yes,Graduate,No,17193,41940,Bad,Rural,Yes
+APP0318,Male,Yes,Not Graduate,No,14096,33901,Good,Semiurban,No
+APP0319,Male,Yes,Graduate,No,6214,37001,Good,Rural,No
+APP0320,Female,No,Graduate,No,13023,20623,Bad,Semiurban,No
+APP0321,Female,No,Not Graduate,No,13950,7378,Good,Rural,Yes
+APP0322,Male,Yes,Not Graduate,Yes,12704,26372,Bad,Semiurban,No
+APP0323,Female,Yes,Not Graduate,No,12343,49799,Good,Semiurban,No
+APP0324,Female,Yes,Not Graduate,No,13867,43437,Good,Semiurban,No
+APP0325,Female,No,Graduate,No,4745,40503,Good,Semiurban,No
+APP0326,Female,No,Graduate,Yes,5866,35746,Good,Rural,Yes
+APP0327,Male,No,Graduate,No,13956,32923,Good,Rural,Yes
+APP0328,Male,No,Graduate,No,7818,14867,Good,Semiurban,Yes
+APP0329,Female,No,Graduate,No,18093,46258,Good,Semiurban,No
+APP0330,Female,No,Graduate,Yes,17493,38724,Good,Rural,Yes
+APP0331,Male,No,Not Graduate,No,19908,14306,Good,Semiurban,Yes
+APP0332,Male,No,Graduate,No,10224,44391,Good,Semiurban,No
+APP0333,Female,No,Graduate,No,6025,19908,Good,Semiurban,No
+APP0334,Male,Yes,Graduate,No,8155,32081,Good,Urban,No
+APP0335,Female,Yes,Graduate,No,15839,42228,Good,Semiurban,No
+APP0336,Female,Yes,Graduate,No,2719,28386,Good,Urban,Yes
+APP0337,Male,Yes,Not Graduate,No,16890,33302,Good,Semiurban,No
+APP0338,Male,No,Graduate,No,19356,24212,Good,Rural,Yes
+APP0339,Female,No,Graduate,No,6426,40618,Good,Urban,Yes
+APP0340,Female,Yes,Graduate,Yes,14512,15698,Good,Urban,Yes
+APP0341,Male,No,Not Graduate,Yes,17064,9594,Bad,Semiurban,Yes
+APP0342,Female,Yes,Graduate,No,15767,30525,Good,Semiurban,Yes
+APP0343,Male,No,Graduate,No,13308,19282,Good,Urban,Yes
+APP0344,Female,Yes,Graduate,No,13477,19334,Good,Rural,No
+APP0345,Male,No,Graduate,No,14903,34179,Good,Rural,Yes
+APP0346,Male,No,Not Graduate,No,10680,11644,Bad,Semiurban,No
+APP0347,Male,Yes,Not Graduate,No,4204,40618,Good,Rural,Yes
+APP0348,Female,No,Graduate,Yes,3102,37933,Good,Rural,No
+APP0349,Female,Yes,Not Graduate,No,7243,48469,Good,Semiurban,No
+APP0350,Male,Yes,Not Graduate,No,8614,38687,Good,Rural,Yes
+APP0351,Female,Yes,Not Graduate,Yes,18299,46073,Good,Semiurban,No
+APP0352,Male,Yes,Not Graduate,No,10707,22375,Good,Urban,Yes
+APP0353,Male,No,Graduate,No,15913,35926,Good,Semiurban,No
+APP0354,Female,No,Graduate,No,2630,41607,Good,Urban,No
+APP0355,Female,No,Graduate,No,13908,22642,Good,Urban,Yes
+APP0356,Male,Yes,Not Graduate,No,12847,28993,Good,Rural,No
+APP0357,Female,No,Graduate,No,11171,49386,Good,Rural,No
+APP0358,Female,Yes,Not Graduate,No,14721,26188,Good,Rural,Yes
+APP0359,Male,No,Not Graduate,No,18661,37596,Bad,Semiurban,No
+APP0360,Male,No,Graduate,No,18616,32772,Good,Rural,Yes
+APP0361,Female,No,Not Graduate,Yes,11744,35857,Bad,Urban,No
+APP0362,Male,Yes,Graduate,No,7690,15776,Good,Rural,Yes
+APP0363,Male,No,Graduate,No,15401,37835,Good,Rural,Yes
+APP0364,Female,No,Not Graduate,No,9659,14788,Good,Semiurban,No
+APP0365,Male,Yes,Graduate,No,12601,10660,Good,Semiurban,Yes
+APP0366,Male,No,Not Graduate,No,13704,9478,Good,Urban,Yes
+APP0367,Female,Yes,Not Graduate,Yes,2025,13210,Good,Semiurban,No
+APP0368,Female,No,Graduate,No,17384,15922,Good,Rural,No
+APP0369,Male,Yes,Graduate,No,15705,41289,Bad,Semiurban,No
+APP0370,Male,Yes,Graduate,Yes,10652,38340,Good,Urban,Yes
+APP0371,Female,No,Graduate,Yes,15379,44850,Good,Rural,No
+APP0372,Female,Yes,Not Graduate,No,9006,43163,Good,Urban,No
+APP0373,Female,Yes,Graduate,No,10682,23642,Good,Semiurban,Yes
+APP0374,Female,Yes,Graduate,No,3072,16094,Good,Semiurban,Yes
+APP0375,Male,Yes,Graduate,No,2215,27423,Good,Urban,Yes
+APP0376,Female,Yes,Graduate,No,11915,38418,Bad,Rural,No
+APP0377,Female,Yes,Not Graduate,No,11784,10741,Good,Semiurban,Yes
+APP0378,Male,No,Graduate,No,16824,11838,Good,Semiurban,No
+APP0379,Female,Yes,Not Graduate,No,5313,8262,Good,Rural,Yes
+APP0380,Male,Yes,Graduate,No,13033,9996,Bad,Semiurban,No
+APP0381,Female,No,Not Graduate,Yes,11968,49594,Good,Urban,No
+APP0382,Female,No,Graduate,No,18241,27164,Good,Semiurban,No
+APP0383,Female,No,Graduate,No,7939,40595,Good,Semiurban,No
+APP0384,Male,No,Not Graduate,No,16696,35257,Good,Rural,Yes
+APP0385,Male,No,Graduate,Yes,16794,19211,Good,Urban,Yes
+APP0386,Female,No,Not Graduate,Yes,4295,35453,Good,Rural,No
+APP0387,Male,No,Graduate,No,3696,10232,Good,Semiurban,No
+APP0388,Male,Yes,Graduate,No,13185,7217,Good,Semiurban,No
+APP0389,Male,Yes,Graduate,No,14001,29229,Good,Rural,Yes
+APP0390,Male,No,Not Graduate,No,16350,19232,Good,Rural,Yes
+APP0391,Male,Yes,Graduate,No,5644,30613,Good,Rural,Yes
+APP0392,Male,Yes,Graduate,Yes,8420,19026,Good,Urban,Yes
+APP0393,Female,Yes,Graduate,No,13837,33554,Good,Semiurban,Yes
+APP0394,Female,No,Graduate,Yes,8353,35908,Good,Rural,Yes
+APP0395,Male,No,Graduate,No,12541,24610,Good,Semiurban,Yes
+APP0396,Female,Yes,Not Graduate,No,3932,44605,Bad,Urban,No
+APP0397,Female,No,Not Graduate,No,13486,12031,Bad,Urban,No
+APP0398,Female,Yes,Not Graduate,Yes,3757,30515,Good,Urban,Yes
+APP0399,Female,Yes,Not Graduate,Yes,7085,41484,Good,Urban,No
+APP0400,Male,Yes,Graduate,No,7637,41182,Good,Semiurban,Yes
+APP0401,Female,Yes,Not Graduate,No,3116,5570,Good,Urban,Yes
+APP0402,Female,No,Graduate,No,12759,37254,Good,Urban,No
+APP0403,Male,No,Graduate,No,13691,24288,Good,Rural,No
+APP0404,Male,No,Graduate,No,2492,18288,Good,Urban,No
+APP0405,Female,Yes,Graduate,No,10811,34877,Good,Rural,Yes
+APP0406,Female,No,Not Graduate,No,8474,23889,Good,Urban,Yes
+APP0407,Female,Yes,Graduate,No,16385,5917,Good,Urban,Yes
+APP0408,Female,No,Graduate,No,11738,15066,Good,Rural,Yes
+APP0409,Female,Yes,Graduate,Yes,15979,34504,Good,Urban,Yes
+APP0410,Female,Yes,Not Graduate,No,13755,11982,Bad,Semiurban,No
+APP0411,Male,Yes,Graduate,Yes,11797,44104,Bad,Semiurban,No
+APP0412,Female,No,Graduate,Yes,16607,23062,Good,Urban,No
+APP0413,Female,No,Graduate,No,14867,21999,Good,Semiurban,No
+APP0414,Male,No,Not Graduate,Yes,9866,14941,Good,Rural,No
+APP0415,Male,No,Graduate,No,17449,28470,Good,Urban,Yes
+APP0416,Male,Yes,Graduate,No,12685,26133,Good,Urban,Yes
+APP0417,Male,No,Graduate,No,7451,49435,Good,Rural,No
+APP0418,Female,No,Graduate,No,10548,9529,Good,Rural,Yes
+APP0419,Female,Yes,Graduate,Yes,9186,22519,Good,Rural,Yes
+APP0420,Female,Yes,Graduate,No,8102,17192,Good,Urban,Yes
+APP0421,Female,Yes,Not Graduate,No,2619,13566,Good,Rural,No
+APP0422,Female,No,Graduate,No,2882,12226,Good,Rural,No
+APP0423,Female,Yes,Graduate,No,5642,42930,Good,Semiurban,Yes
+APP0424,Male,Yes,Not Graduate,Yes,3296,26259,Bad,Semiurban,No
+APP0425,Female,Yes,Graduate,No,16122,39087,Good,Urban,Yes
+APP0426,Male,No,Graduate,No,4895,6141,Good,Semiurban,No
+APP0427,Male,Yes,Graduate,No,19313,9627,Bad,Semiurban,Yes
+APP0428,Female,No,Graduate,No,7366,7690,Bad,Rural,No
+APP0429,Male,No,Not Graduate,No,10711,45091,Good,Rural,No
+APP0430,Female,Yes,Graduate,No,10199,8255,Bad,Semiurban,No
+APP0431,Male,Yes,Not Graduate,Yes,12717,10213,Good,Semiurban,Yes
+APP0432,Female,No,Graduate,No,5423,41876,Good,Semiurban,No
+APP0433,Male,Yes,Graduate,No,12211,24404,Good,Urban,Yes
+APP0434,Female,Yes,Graduate,No,14782,30380,Good,Urban,No
+APP0435,Female,No,Graduate,No,14474,30520,Good,Urban,Yes
+APP0436,Female,No,Graduate,No,5667,24173,Good,Semiurban,No
+APP0437,Female,Yes,Not Graduate,Yes,10277,28989,Good,Semiurban,Yes
+APP0438,Female,No,Graduate,Yes,14424,47570,Good,Urban,Yes
+APP0439,Male,Yes,Not Graduate,No,10155,29519,Good,Urban,No
+APP0440,Male,Yes,Graduate,No,5583,27439,Good,Semiurban,Yes
+APP0441,Male,Yes,Not Graduate,No,17515,16413,Good,Rural,Yes
+APP0442,Female,No,Not Graduate,No,6009,19995,Good,Urban,Yes
+APP0443,Male,Yes,Not Graduate,No,12410,28559,Good,Semiurban,Yes
+APP0444,Female,Yes,Not Graduate,Yes,6967,28513,Bad,Semiurban,No
+APP0445,Female,Yes,Not Graduate,No,12695,10021,Good,Rural,Yes
+APP0446,Male,No,Graduate,No,11135,37464,Good,Semiurban,No
+APP0447,Male,No,Graduate,Yes,7722,26119,Good,Semiurban,No
+APP0448,Female,No,Graduate,No,17514,34299,Good,Urban,Yes
+APP0449,Male,No,Not Graduate,No,13128,44350,Good,Urban,Yes
+APP0450,Female,No,Graduate,Yes,6444,30517,Good,Rural,No
+APP0451,Female,Yes,Not Graduate,No,9618,18117,Good,Rural,No
+APP0452,Female,No,Graduate,No,3196,27250,Good,Semiurban,No
+APP0453,Female,No,Graduate,Yes,14297,23950,Bad,Urban,No
+APP0454,Female,No,Graduate,No,4787,22359,Good,Rural,Yes
+APP0455,Male,Yes,Graduate,No,9927,28596,Good,Rural,No
+APP0456,Male,No,Graduate,No,4176,30530,Bad,Rural,Yes
+APP0457,Female,No,Graduate,No,10792,6262,Good,Semiurban,No
+APP0458,Female,Yes,Graduate,No,11171,45150,Good,Urban,No
+APP0459,Male,No,Graduate,No,4451,27615,Good,Rural,Yes
+APP0460,Male,Yes,Graduate,No,2628,8327,Good,Urban,Yes
+APP0461,Female,Yes,Graduate,Yes,11821,34768,Good,Rural,No
+APP0462,Male,Yes,Not Graduate,No,9778,33850,Good,Rural,No
+APP0463,Female,Yes,Graduate,No,5696,47788,Good,Urban,Yes
+APP0464,Male,Yes,Graduate,No,14972,21848,Good,Urban,Yes
+APP0465,Female,No,Graduate,Yes,10307,44542,Good,Urban,No
+APP0466,Male,Yes,Graduate,No,6956,20160,Good,Semiurban,Yes
+APP0467,Female,Yes,Graduate,No,12195,38998,Good,Rural,No
+APP0468,Male,No,Graduate,No,19076,32230,Bad,Semiurban,No
+APP0469,Male,Yes,Graduate,Yes,3105,14076,Good,Urban,Yes
+APP0470,Female,No,Graduate,No,17417,8805,Good,Rural,No
+APP0471,Male,No,Graduate,No,16188,36085,Good,Semiurban,Yes
+APP0472,Female,No,Not Graduate,No,14602,19715,Good,Rural,Yes
+APP0473,Male,Yes,Not Graduate,No,11256,10750,Good,Semiurban,No
+APP0474,Female,Yes,Graduate,No,16212,18232,Good,Urban,Yes
+APP0475,Male,Yes,Graduate,No,3913,40903,Bad,Semiurban,No
+APP0476,Female,No,Graduate,No,12593,11953,Bad,Rural,No
+APP0477,Male,Yes,Graduate,No,3772,37093,Good,Rural,Yes
+APP0478,Female,Yes,Not Graduate,No,14996,30500,Good,Rural,No
+APP0479,Male,Yes,Graduate,No,4871,27418,Good,Rural,No
+APP0480,Female,No,Graduate,No,15234,39314,Good,Urban,Yes
+APP0481,Female,No,Graduate,Yes,19044,27449,Good,Semiurban,Yes
+APP0482,Female,Yes,Not Graduate,Yes,12521,22478,Good,Urban,No
+APP0483,Male,Yes,Graduate,No,12642,40179,Good,Urban,No
+APP0484,Female,Yes,Graduate,No,3132,30338,Good,Urban,No
+APP0485,Male,Yes,Graduate,No,2699,31899,Good,Rural,No
+APP0486,Female,No,Graduate,No,16534,9145,Bad,Rural,No
+APP0487,Male,No,Graduate,Yes,12230,37101,Good,Rural,No
+APP0488,Female,No,Graduate,No,8297,7775,Good,Semiurban,No
+APP0489,Male,No,Graduate,No,14839,36647,Good,Rural,Yes
+APP0490,Male,Yes,Graduate,No,9812,24539,Good,Semiurban,Yes
+APP0491,Female,Yes,Graduate,No,6557,41738,Good,Rural,No
+APP0492,Male,Yes,Graduate,No,4179,31616,Good,Rural,No
+APP0493,Male,No,Graduate,No,13030,19119,Good,Urban,Yes
+APP0494,Female,Yes,Graduate,No,11065,30159,Good,Urban,No
+APP0495,Male,No,Not Graduate,No,10275,42099,Good,Urban,No
+APP0496,Male,No,Graduate,No,19806,15295,Good,Semiurban,Yes
+APP0497,Male,Yes,Graduate,No,17089,39710,Good,Semiurban,Yes
+APP0498,Female,Yes,Graduate,No,5180,29685,Bad,Rural,No
+APP0499,Male,Yes,Graduate,No,8696,30479,Good,Semiurban,Yes
+APP0500,Female,No,Not Graduate,No,11583,38629,Good,Rural,Yes
+APP0501,Male,Yes,Graduate,No,18998,47043,Good,Semiurban,Yes
+APP0502,Male,No,Not Graduate,No,15869,22033,Bad,Semiurban,No
+APP0503,Male,Yes,Graduate,Yes,13757,41902,Good,Semiurban,No
+APP0504,Female,No,Graduate,No,18654,49571,Good,Urban,Yes
+APP0505,Male,No,Not Graduate,No,14258,20408,Good,Semiurban,No
+APP0506,Male,Yes,Not Graduate,No,4468,22420,Good,Urban,Yes
+APP0507,Female,No,Not Graduate,No,16208,21351,Good,Urban,No
+APP0508,Male,No,Not Graduate,No,17042,9131,Good,Semiurban,No
+APP0509,Female,Yes,Graduate,No,17639,49825,Bad,Rural,No
+APP0510,Female,No,Not Graduate,No,13546,16349,Good,Rural,Yes
+APP0511,Male,Yes,Graduate,Yes,14327,49254,Good,Rural,Yes
+APP0512,Female,No,Not Graduate,No,16270,43225,Good,Semiurban,Yes
+APP0513,Male,Yes,Graduate,Yes,17523,43847,Good,Rural,No
+APP0514,Female,Yes,Not Graduate,No,16300,17453,Bad,Urban,No
+APP0515,Female,No,Graduate,No,12775,23814,Good,Rural,No
+APP0516,Male,No,Graduate,Yes,14265,23263,Good,Semiurban,Yes
+APP0517,Female,No,Graduate,No,18673,17158,Good,Rural,No
+APP0518,Female,No,Not Graduate,No,8614,20735,Good,Urban,No
+APP0519,Female,No,Graduate,Yes,5252,20830,Good,Semiurban,Yes
+APP0520,Female,Yes,Graduate,No,9415,49673,Good,Rural,No
+APP0521,Female,No,Graduate,No,18662,28926,Bad,Semiurban,No
+APP0522,Male,Yes,Graduate,No,13116,39779,Bad,Semiurban,No
+APP0523,Female,Yes,Not Graduate,No,18964,8373,Good,Semiurban,No
+APP0524,Male,No,Graduate,No,6958,15335,Bad,Rural,No
+APP0525,Female,Yes,Not Graduate,No,6276,28741,Good,Semiurban,No
+APP0526,Male,Yes,Graduate,No,6776,15692,Good,Rural,No
+APP0527,Male,Yes,Graduate,No,19208,39057,Good,Urban,Yes
+APP0528,Female,Yes,Not Graduate,Yes,5832,6447,Good,Rural,No
+APP0529,Female,No,Graduate,No,16901,24583,Good,Urban,Yes
+APP0530,Female,Yes,Graduate,No,7445,27765,Good,Rural,Yes
+APP0531,Male,No,Graduate,Yes,3380,28906,Good,Semiurban,Yes
+APP0532,Female,No,Not Graduate,Yes,11865,24567,Good,Rural,No
+APP0533,Male,Yes,Graduate,No,15926,19139,Good,Semiurban,Yes
+APP0534,Male,No,Not Graduate,No,13580,43230,Good,Urban,Yes
+APP0535,Male,No,Not Graduate,No,7634,24520,Good,Rural,Yes
+APP0536,Female,No,Graduate,No,7810,24702,Good,Semiurban,No
+APP0537,Female,Yes,Graduate,Yes,12179,30566,Good,Urban,No
+APP0538,Male,No,Graduate,No,14251,12657,Good,Urban,No
+APP0539,Male,No,Graduate,Yes,15131,42688,Bad,Rural,No
+APP0540,Female,No,Graduate,No,14707,35134,Good,Urban,No
+APP0541,Male,Yes,Graduate,No,4749,15345,Good,Semiurban,No
+APP0542,Female,No,Graduate,No,15156,46185,Bad,Urban,No
+APP0543,Male,Yes,Not Graduate,No,18589,32413,Good,Urban,Yes
+APP0544,Female,Yes,Not Graduate,No,5450,10208,Good,Semiurban,Yes
+APP0545,Male,Yes,Not Graduate,No,9214,38455,Good,Urban,No
+APP0546,Female,Yes,Graduate,No,13814,33018,Bad,Urban,No
+APP0547,Male,Yes,Graduate,No,7141,13080,Good,Urban,Yes
+APP0548,Female,Yes,Graduate,No,4708,26902,Good,Urban,No
+APP0549,Female,No,Not Graduate,No,17088,14486,Good,Semiurban,Yes
+APP0550,Male,Yes,Graduate,No,13834,43862,Good,Urban,Yes
+APP0551,Male,No,Not Graduate,No,14278,26158,Good,Semiurban,No
+APP0552,Female,No,Graduate,Yes,12014,45460,Good,Urban,Yes
+APP0553,Male,Yes,Graduate,No,5273,48856,Good,Urban,No
+APP0554,Female,No,Not Graduate,No,16367,40871,Bad,Urban,No
+APP0555,Male,No,Graduate,Yes,6538,40208,Good,Urban,No
+APP0556,Female,No,Not Graduate,No,14541,25519,Good,Semiurban,No
+APP0557,Female,No,Not Graduate,Yes,10712,36379,Bad,Semiurban,No
+APP0558,Female,Yes,Graduate,No,11168,33378,Good,Semiurban,No
+APP0559,Female,No,Graduate,No,5551,44892,Good,Rural,No
+APP0560,Female,Yes,Graduate,No,14297,19031,Good,Urban,Yes
+APP0561,Female,No,Not Graduate,No,12965,19536,Bad,Urban,No
+APP0562,Male,No,Graduate,No,4832,5446,Good,Semiurban,No
+APP0563,Male,Yes,Graduate,No,15422,41683,Good,Rural,Yes
+APP0564,Male,No,Graduate,No,2152,22618,Bad,Urban,No
+APP0565,Female,No,Not Graduate,No,13156,11587,Good,Semiurban,No
+APP0566,Female,No,Graduate,No,13108,36480,Bad,Urban,No
+APP0567,Female,Yes,Not Graduate,No,4800,37994,Bad,Urban,No
+APP0568,Female,No,Not Graduate,Yes,7310,25527,Good,Semiurban,No
+APP0569,Male,Yes,Graduate,No,11944,28569,Good,Semiurban,Yes
+APP0570,Male,No,Graduate,No,4610,16151,Good,Urban,Yes
+APP0571,Female,Yes,Not Graduate,No,14067,10558,Good,Urban,No
+APP0572,Male,Yes,Graduate,Yes,3104,49739,Good,Semiurban,No
+APP0573,Male,No,Not Graduate,Yes,12728,37954,Good,Urban,Yes
+APP0574,Female,No,Graduate,No,9263,48837,Bad,Urban,No
+APP0575,Male,Yes,Graduate,No,3914,40303,Good,Semiurban,No
+APP0576,Female,Yes,Not Graduate,No,2406,39700,Good,Urban,No
+APP0577,Male,No,Graduate,No,15689,32500,Bad,Urban,Yes
+APP0578,Female,Yes,Graduate,No,2166,7032,Bad,Rural,No
+APP0579,Female,No,Graduate,No,2508,6252,Good,Semiurban,No
+APP0580,Female,No,Graduate,No,5664,10509,Bad,Rural,No
+APP0581,Female,No,Graduate,No,15050,42842,Good,Rural,No
+APP0582,Male,No,Graduate,No,2680,18900,Bad,Rural,No
+APP0583,Female,Yes,Not Graduate,Yes,6357,19523,Good,Urban,Yes
+APP0584,Female,No,Graduate,No,3363,6881,Good,Urban,No
+APP0585,Female,Yes,Graduate,No,11523,38037,Good,Rural,Yes
+APP0586,Male,No,Graduate,No,4292,6630,Good,Rural,No
+APP0587,Female,Yes,Not Graduate,No,3538,25789,Good,Rural,No
+APP0588,Male,No,Graduate,No,5408,27523,Good,Urban,Yes
+APP0589,Female,Yes,Not Graduate,No,10752,22958,Good,Rural,No
+APP0590,Male,Yes,Graduate,No,2174,48852,Bad,Rural,No
+APP0591,Male,No,Graduate,No,4230,6695,Good,Semiurban,Yes
+APP0592,Female,No,Graduate,No,6287,19821,Good,Semiurban,No
+APP0593,Male,No,Graduate,No,14112,8262,Good,Urban,Yes
+APP0594,Female,No,Graduate,No,9106,6445,Good,Semiurban,No
+APP0595,Female,Yes,Graduate,Yes,11689,21436,Bad,Semiurban,Yes
+APP0596,Female,No,Not Graduate,No,14046,14949,Bad,Semiurban,No
+APP0597,Male,Yes,Graduate,No,19951,28963,Good,Urban,Yes
+APP0598,Male,Yes,Graduate,No,3151,34932,Good,Semiurban,No
+APP0599,Female,No,Graduate,No,9619,11901,Good,Urban,Yes
+APP0600,Female,Yes,Not Graduate,No,8033,38487,Good,Rural,No
+APP0601,Male,Yes,Graduate,No,10560,13597,Bad,Semiurban,Yes
+APP0602,Female,Yes,Graduate,Yes,6946,11855,Good,Urban,Yes
+APP0603,Female,Yes,Graduate,No,3907,23678,Good,Semiurban,No
+APP0604,Female,No,Not Graduate,Yes,5490,13263,Good,Rural,Yes
+APP0605,Male,No,Graduate,No,6173,30805,Good,Urban,No
+APP0606,Male,No,Graduate,No,13065,31143,Bad,Urban,Yes
+APP0607,Male,No,Not Graduate,No,19677,16874,Good,Urban,Yes
+APP0608,Female,Yes,Not Graduate,No,6769,32529,Good,Rural,No
+APP0609,Female,Yes,Graduate,No,6796,25866,Good,Rural,Yes
+APP0610,Female,No,Not Graduate,No,15046,19079,Good,Rural,No
+APP0611,Male,No,Graduate,No,16211,12243,Good,Urban,Yes
+APP0612,Female,No,Graduate,No,6997,34872,Good,Rural,No
+APP0613,Female,Yes,Graduate,Yes,19376,14018,Good,Semiurban,Yes
+APP0614,Female,No,Graduate,No,10112,17100,Good,Rural,No
+APP0615,Female,No,Graduate,No,7287,24800,Good,Urban,No
+APP0616,Male,No,Not Graduate,No,12578,31910,Good,Semiurban,Yes
+APP0617,Male,Yes,Graduate,No,19860,34437,Good,Rural,Yes
+APP0618,Female,Yes,Graduate,No,8426,42588,Good,Semiurban,No
+APP0619,Male,Yes,Graduate,No,13599,16001,Good,Semiurban,Yes
+APP0620,Male,Yes,Not Graduate,Yes,2389,24942,Good,Urban,No
+APP0621,Female,Yes,Graduate,No,2999,25862,Good,Semiurban,No
+APP0622,Female,Yes,Graduate,No,14812,16669,Good,Semiurban,Yes
+APP0623,Male,Yes,Graduate,Yes,17599,20916,Good,Urban,Yes
+APP0624,Female,Yes,Graduate,No,3855,15878,Good,Urban,Yes
+APP0625,Male,No,Not Graduate,Yes,10125,7985,Good,Urban,No
+APP0626,Female,No,Not Graduate,No,15794,37369,Good,Semiurban,No
+APP0627,Male,Yes,Graduate,No,4763,13112,Good,Semiurban,Yes
+APP0628,Female,Yes,Not Graduate,No,6986,46235,Good,Semiurban,Yes
+APP0629,Male,No,Graduate,No,3481,23931,Good,Urban,No
+APP0630,Male,Yes,Not Graduate,No,5731,32340,Bad,Rural,No
+APP0631,Male,Yes,Graduate,No,18835,5336,Good,Semiurban,Yes
+APP0632,Female,Yes,Graduate,Yes,19266,47933,Good,Rural,No
+APP0633,Male,No,Graduate,No,12758,24363,Good,Urban,Yes
+APP0634,Male,No,Graduate,No,18311,8968,Good,Semiurban,Yes
+APP0635,Female,No,Graduate,No,10566,38678,Good,Rural,No
+APP0636,Female,No,Graduate,No,13889,21279,Good,Semiurban,Yes
+APP0637,Male,No,Graduate,No,13254,8129,Bad,Semiurban,No
+APP0638,Male,Yes,Not Graduate,Yes,13442,43215,Good,Semiurban,Yes
+APP0639,Female,No,Graduate,Yes,15521,43897,Bad,Rural,No
+APP0640,Female,Yes,Graduate,No,6559,10850,Good,Urban,Yes
+APP0641,Female,Yes,Not Graduate,No,18199,25588,Good,Semiurban,No
+APP0642,Female,No,Graduate,Yes,9291,45214,Good,Urban,No
+APP0643,Female,No,Graduate,No,10160,16949,Good,Urban,Yes
+APP0644,Male,Yes,Graduate,No,2112,13519,Good,Rural,No
+APP0645,Female,Yes,Not Graduate,No,17924,31375,Good,Rural,No
+APP0646,Male,Yes,Graduate,No,18523,38082,Good,Urban,Yes
+APP0647,Male,No,Graduate,Yes,3424,16737,Bad,Semiurban,No
+APP0648,Male,No,Not Graduate,No,12808,6134,Bad,Rural,No
+APP0649,Female,No,Not Graduate,No,8043,15938,Good,Semiurban,No
+APP0650,Male,No,Graduate,Yes,8989,29486,Good,Semiurban,Yes
+APP0651,Male,No,Graduate,Yes,8261,31096,Good,Semiurban,No
+APP0652,Female,Yes,Graduate,No,2887,46115,Good,Urban,Yes
+APP0653,Male,No,Not Graduate,No,18433,10592,Good,Semiurban,Yes
+APP0654,Male,Yes,Graduate,No,18402,23108,Good,Urban,Yes
+APP0655,Female,Yes,Graduate,No,14253,22270,Good,Urban,Yes
+APP0656,Male,Yes,Not Graduate,No,9846,32649,Good,Semiurban,No
+APP0657,Male,No,Graduate,No,8432,15997,Bad,Semiurban,No
+APP0658,Male,No,Graduate,No,15452,38489,Good,Semiurban,Yes
+APP0659,Female,No,Graduate,No,15395,14104,Bad,Semiurban,Yes
+APP0660,Female,Yes,Graduate,No,5765,5870,Good,Urban,Yes
+APP0661,Female,Yes,Graduate,No,17950,33684,Good,Semiurban,Yes
+APP0662,Male,Yes,Graduate,No,14502,44519,Good,Semiurban,Yes
+APP0663,Male,Yes,Graduate,No,11741,39524,Good,Urban,Yes
+APP0664,Female,Yes,Graduate,No,7941,35957,Good,Rural,Yes
+APP0665,Male,Yes,Not Graduate,No,6855,38885,Good,Rural,Yes
+APP0666,Male,No,Graduate,No,17166,49369,Good,Urban,Yes
+APP0667,Female,No,Not Graduate,No,7788,40596,Good,Rural,No
+APP0668,Female,No,Graduate,No,2201,34866,Good,Urban,Yes
+APP0669,Male,No,Not Graduate,No,12561,35676,Good,Semiurban,No
+APP0670,Male,Yes,Not Graduate,No,18901,18878,Good,Semiurban,Yes
+APP0671,Male,Yes,Graduate,Yes,9737,44760,Good,Rural,Yes
+APP0672,Female,No,Not Graduate,No,3988,32559,Good,Semiurban,No
+APP0673,Female,Yes,Not Graduate,No,17441,11771,Good,Rural,Yes
+APP0674,Female,No,Graduate,No,13737,21526,Bad,Rural,Yes
+APP0675,Female,No,Graduate,No,16256,34896,Good,Semiurban,Yes
+APP0676,Male,No,Graduate,No,9162,36923,Good,Semiurban,No
+APP0677,Female,Yes,Not Graduate,No,15065,41203,Good,Rural,No
+APP0678,Female,No,Not Graduate,No,16114,44390,Good,Semiurban,No
+APP0679,Female,No,Not Graduate,No,10399,17852,Good,Urban,Yes
+APP0680,Female,No,Graduate,Yes,7633,48391,Good,Semiurban,No
+APP0681,Female,Yes,Not Graduate,No,7755,6848,Good,Semiurban,Yes
+APP0682,Male,Yes,Graduate,No,12825,36027,Good,Urban,Yes
+APP0683,Male,No,Graduate,No,6117,40464,Good,Semiurban,No
+APP0684,Female,Yes,Graduate,Yes,3518,39485,Good,Semiurban,No
+APP0685,Male,Yes,Graduate,Yes,18346,24456,Good,Rural,Yes
+APP0686,Female,Yes,Graduate,No,4600,14259,Bad,Semiurban,No
+APP0687,Female,Yes,Graduate,No,15237,40554,Good,Semiurban,Yes
+APP0688,Male,Yes,Graduate,No,5554,18409,Good,Urban,Yes
+APP0689,Male,Yes,Graduate,No,18193,8791,Good,Rural,Yes
+APP0690,Female,Yes,Graduate,Yes,17253,30864,Good,Rural,Yes
+APP0691,Female,Yes,Graduate,No,18194,41639,Bad,Rural,No
+APP0692,Female,Yes,Graduate,No,3742,39574,Good,Semiurban,No
+APP0693,Male,Yes,Graduate,No,3306,22888,Bad,Rural,No
+APP0694,Female,No,Graduate,No,5849,24692,Bad,Urban,No
+APP0695,Female,No,Graduate,Yes,14360,28501,Good,Rural,No
+APP0696,Female,Yes,Graduate,Yes,14768,18304,Good,Urban,Yes
+APP0697,Male,No,Graduate,No,15032,32527,Good,Rural,No
+APP0698,Female,No,Graduate,Yes,6195,23074,Bad,Rural,No
+APP0699,Female,Yes,Graduate,Yes,9619,20549,Good,Urban,Yes
+APP0700,Male,Yes,Not Graduate,No,11280,34963,Good,Rural,Yes
+APP0701,Female,Yes,Graduate,No,4642,30920,Good,Rural,No
+APP0702,Female,No,Graduate,No,11369,35826,Good,Rural,Yes
+APP0703,Male,No,Graduate,No,16296,41071,Good,Semiurban,No
+APP0704,Female,Yes,Graduate,No,17438,21061,Good,Urban,Yes
+APP0705,Male,Yes,Graduate,No,17674,33810,Bad,Rural,No
+APP0706,Male,Yes,Graduate,No,6757,27800,Bad,Urban,No
+APP0707,Female,No,Graduate,Yes,4994,48423,Bad,Urban,No
+APP0708,Female,No,Graduate,No,17226,46692,Good,Urban,No
+APP0709,Female,No,Graduate,Yes,3271,14940,Good,Rural,No
+APP0710,Female,No,Not Graduate,No,3813,8924,Good,Rural,No
+APP0711,Male,Yes,Not Graduate,No,10475,33054,Good,Urban,No
+APP0712,Female,Yes,Not Graduate,No,6396,14783,Good,Semiurban,Yes
+APP0713,Male,Yes,Not Graduate,No,11283,42253,Good,Urban,Yes
+APP0714,Female,Yes,Graduate,No,15318,18233,Good,Semiurban,Yes
+APP0715,Female,No,Graduate,No,19200,29484,Bad,Urban,No
+APP0716,Female,No,Graduate,Yes,2082,30068,Good,Urban,Yes
+APP0717,Male,Yes,Graduate,No,3920,5191,Good,Urban,Yes
+APP0718,Female,Yes,Not Graduate,No,9817,30074,Good,Rural,No
+APP0719,Female,No,Graduate,No,13683,9917,Good,Semiurban,Yes
+APP0720,Female,Yes,Not Graduate,No,13336,43599,Good,Semiurban,No
+APP0721,Female,No,Graduate,No,17596,30832,Bad,Urban,No
+APP0722,Male,Yes,Not Graduate,No,4093,47928,Bad,Rural,No
+APP0723,Female,Yes,Graduate,No,14905,25706,Bad,Rural,Yes
+APP0724,Male,Yes,Graduate,No,10367,18682,Bad,Semiurban,No
+APP0725,Male,Yes,Graduate,No,7285,31762,Good,Rural,No
+APP0726,Male,Yes,Graduate,No,12896,28383,Good,Semiurban,No
+APP0727,Male,Yes,Graduate,No,6937,32796,Good,Semiurban,Yes
+APP0728,Male,Yes,Graduate,Yes,18753,28666,Good,Semiurban,Yes
+APP0729,Male,No,Not Graduate,No,14977,30662,Good,Rural,No
+APP0730,Female,No,Graduate,Yes,9674,39642,Good,Semiurban,No
+APP0731,Male,No,Graduate,No,19748,46830,Good,Semiurban,Yes
+APP0732,Male,No,Graduate,Yes,5676,42531,Good,Urban,No
+APP0733,Male,No,Not Graduate,No,4426,15234,Good,Semiurban,Yes
+APP0734,Female,Yes,Graduate,No,4962,14221,Good,Semiurban,Yes
+APP0735,Female,Yes,Graduate,Yes,2859,16410,Good,Urban,Yes
+APP0736,Male,No,Graduate,No,14048,19519,Good,Urban,Yes
+APP0737,Female,Yes,Graduate,No,6138,6051,Good,Rural,Yes
+APP0738,Male,No,Graduate,No,4424,49993,Good,Semiurban,No
+APP0739,Male,No,Graduate,Yes,12409,14765,Good,Rural,Yes
+APP0740,Female,Yes,Graduate,No,6017,16382,Good,Rural,No
+APP0741,Male,Yes,Not Graduate,No,12451,17580,Good,Urban,Yes
+APP0742,Female,Yes,Graduate,Yes,12278,37323,Good,Rural,Yes
+APP0743,Female,No,Graduate,Yes,12996,49757,Good,Semiurban,Yes
+APP0744,Male,Yes,Graduate,No,3134,16939,Good,Urban,Yes
+APP0745,Male,No,Not Graduate,No,7119,34964,Good,Semiurban,No
+APP0746,Female,No,Graduate,No,7694,5307,Good,Semiurban,No
+APP0747,Male,No,Not Graduate,No,6164,8359,Good,Urban,No
+APP0748,Male,Yes,Graduate,No,7039,34648,Good,Semiurban,Yes
+APP0749,Male,Yes,Graduate,No,16631,40944,Good,Urban,Yes
+APP0750,Female,No,Graduate,Yes,12442,39019,Good,Semiurban,No
+APP0751,Female,Yes,Not Graduate,No,10252,43134,Good,Urban,Yes
+APP0752,Male,Yes,Graduate,No,19721,32323,Good,Rural,Yes
+APP0753,Female,Yes,Not Graduate,No,19568,11226,Good,Semiurban,No
+APP0754,Female,No,Not Graduate,No,3551,26689,Good,Urban,No
+APP0755,Female,No,Graduate,No,14625,35971,Good,Semiurban,No
+APP0756,Female,Yes,Graduate,Yes,3629,30954,Good,Semiurban,No
+APP0757,Female,No,Graduate,No,19910,29423,Good,Semiurban,Yes
+APP0758,Male,Yes,Graduate,Yes,3361,35391,Good,Urban,No
+APP0759,Male,Yes,Not Graduate,No,6370,19330,Good,Rural,Yes
+APP0760,Male,Yes,Not Graduate,Yes,7283,9891,Good,Rural,Yes
+APP0761,Female,Yes,Graduate,Yes,9610,9992,Good,Rural,Yes
+APP0762,Female,No,Graduate,No,12558,6961,Bad,Urban,No
+APP0763,Male,No,Not Graduate,No,16924,17497,Good,Rural,Yes
+APP0764,Female,No,Graduate,No,16839,37551,Good,Urban,Yes
+APP0765,Male,Yes,Not Graduate,No,13949,15848,Good,Semiurban,No
+APP0766,Male,Yes,Graduate,Yes,12626,18255,Good,Semiurban,No
+APP0767,Male,Yes,Graduate,Yes,3993,9567,Good,Rural,No
+APP0768,Female,No,Graduate,No,2869,44281,Good,Urban,No
+APP0769,Female,Yes,Graduate,No,3014,25389,Good,Semiurban,No
+APP0770,Male,No,Graduate,No,12103,49523,Bad,Urban,Yes
+APP0771,Male,No,Graduate,No,18986,48919,Good,Urban,Yes
+APP0772,Male,No,Graduate,No,14013,21567,Good,Semiurban,Yes
+APP0773,Male,No,Not Graduate,No,2690,8358,Bad,Urban,No
+APP0774,Female,No,Not Graduate,No,18873,27999,Good,Semiurban,Yes
+APP0775,Female,No,Graduate,No,12748,47358,Bad,Semiurban,No
+APP0776,Male,Yes,Graduate,No,10024,15988,Good,Semiurban,Yes
+APP0777,Male,Yes,Graduate,No,18678,45446,Bad,Urban,Yes
+APP0778,Female,No,Graduate,No,7488,36521,Good,Semiurban,No
+APP0779,Female,No,Graduate,No,13035,10698,Good,Urban,No
+APP0780,Male,Yes,Graduate,No,14855,6273,Bad,Semiurban,No
+APP0781,Male,No,Graduate,No,4817,32543,Good,Semiurban,Yes
+APP0782,Male,No,Graduate,No,6458,36349,Good,Rural,No
+APP0783,Female,Yes,Graduate,No,7307,16241,Good,Rural,No
+APP0784,Female,No,Graduate,No,10933,14497,Good,Rural,Yes
+APP0785,Female,No,Not Graduate,No,19063,46875,Good,Urban,Yes
+APP0786,Male,No,Graduate,No,12659,37703,Good,Urban,No
+APP0787,Male,Yes,Graduate,No,7738,49041,Good,Semiurban,No
+APP0788,Female,Yes,Graduate,No,7668,36954,Good,Semiurban,No
+APP0789,Female,Yes,Graduate,No,16427,13002,Good,Semiurban,Yes
+APP0790,Male,No,Not Graduate,No,9697,9247,Good,Semiurban,No
+APP0791,Female,No,Graduate,No,18446,46988,Good,Urban,Yes
+APP0792,Female,Yes,Not Graduate,Yes,9829,26698,Good,Semiurban,No
+APP0793,Male,No,Graduate,No,12751,24738,Good,Semiurban,No
+APP0794,Female,No,Graduate,Yes,15450,15703,Good,Rural,Yes
+APP0795,Male,No,Not Graduate,No,9352,22570,Good,Semiurban,No
+APP0796,Male,No,Graduate,No,15516,17392,Good,Semiurban,Yes
+APP0797,Male,No,Graduate,Yes,10326,49724,Good,Semiurban,No
+APP0798,Male,Yes,Graduate,Yes,5644,37299,Bad,Urban,No
+APP0799,Male,No,Graduate,No,10003,20641,Good,Rural,Yes
+APP0800,Male,Yes,Not Graduate,No,5278,18998,Good,Semiurban,No
