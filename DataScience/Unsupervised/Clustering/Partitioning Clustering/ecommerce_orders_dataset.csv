@@ -1,0 +1,601 @@
+OrderID,CustomerAge,Category,OrderAmount,Quantity,PaymentMethod,DeliveryTime_Days,CustomerRating
+50001,52,Sports,14314,9,Credit Card,1,3.8
+50002,21,Electronics,14637,3,UPI,9,3.4
+50003,18,Grocery,13303,2,Credit Card,5,1.7
+50004,41,Beauty,18060,1,Credit Card,2,2.4
+50005,35,Beauty,12861,9,Cash On Delivery,1,2.8
+50006,35,Fashion,6039,3,NetBanking,7,3.6
+50007,19,Sports,5417,2,Credit Card,7,2.3
+50008,54,Beauty,5680,8,Debit Card,1,1.6
+50009,33,Grocery,3789,2,Cash On Delivery,1,2.9
+50010,22,Home Decor,6851,5,UPI,8,3.6
+50011,65,Electronics,12521,3,Debit Card,9,1.2
+50012,53,Home Decor,18944,2,Debit Card,2,3.7
+50013,36,Beauty,14287,6,Cash On Delivery,6,3.8
+50014,29,Beauty,17230,4,Cash On Delivery,4,2.7
+50015,53,Grocery,932,5,Credit Card,9,1.9
+50016,69,Fashion,5323,5,UPI,1,3.5
+50017,33,Home Decor,12526,9,Debit Card,7,4.6
+50018,57,Fashion,6533,3,Debit Card,9,1.7
+50019,27,Grocery,11896,2,Cash On Delivery,5,2.2
+50020,36,Grocery,6908,6,NetBanking,5,3.3
+50021,25,Home Decor,14287,5,Cash On Delivery,7,1.3
+50022,43,Sports,3046,6,Credit Card,8,4.7
+50023,53,Grocery,14153,2,UPI,1,3.5
+50024,63,Fashion,16168,1,Cash On Delivery,3,3.5
+50025,49,Home Decor,11962,4,Credit Card,6,4.5
+50026,46,Fashion,2597,6,NetBanking,9,3.8
+50027,18,Beauty,3748,6,UPI,1,4.0
+50028,30,Home Decor,6101,9,Cash On Delivery,6,3.1
+50029,49,Home Decor,7509,4,Cash On Delivery,5,3.5
+50030,51,Home Decor,14996,9,Debit Card,1,1.2
+50031,19,Beauty,16567,5,Cash On Delivery,7,4.4
+50032,24,Beauty,18772,5,UPI,1,2.7
+50033,51,Beauty,17090,9,NetBanking,3,3.3
+50034,35,Home Decor,15587,8,Credit Card,5,1.6
+50035,24,Sports,12172,5,Cash On Delivery,6,4.8
+50036,64,Grocery,11973,1,Credit Card,3,1.1
+50037,19,Grocery,18789,7,NetBanking,8,2.5
+50038,65,Fashion,17342,9,Credit Card,1,2.7
+50039,43,Beauty,3682,2,Debit Card,8,2.6
+50040,28,Grocery,11352,9,Debit Card,3,2.9
+50041,53,Home Decor,11588,4,Debit Card,5,3.4
+50042,18,Home Decor,7825,3,Debit Card,1,1.6
+50043,45,Electronics,10585,4,Debit Card,8,4.1
+50044,51,Sports,8347,9,NetBanking,9,2.0
+50045,51,Sports,1217,4,UPI,2,3.9
+50046,21,Electronics,9655,5,NetBanking,4,4.3
+50047,22,Beauty,11676,4,NetBanking,3,2.1
+50048,19,Home Decor,5874,9,Cash On Delivery,7,2.4
+50049,28,Fashion,9167,5,NetBanking,3,2.3
+50050,59,Electronics,4423,3,Credit Card,3,1.2
+50051,63,Home Decor,15544,3,NetBanking,4,3.0
+50052,25,Beauty,13332,9,Credit Card,1,1.5
+50053,23,Grocery,11690,1,Debit Card,2,4.5
+50054,37,Fashion,1223,4,Cash On Delivery,7,1.7
+50055,60,Sports,4076,7,NetBanking,6,4.0
+50056,59,Electronics,10581,8,Credit Card,5,1.5
+50057,18,Electronics,5290,8,Credit Card,6,2.0
+50058,64,Fashion,521,4,UPI,9,4.3
+50059,45,Home Decor,19065,1,UPI,4,4.4
+50060,39,Sports,17203,2,Credit Card,9,4.9
+50061,20,Sports,18230,6,UPI,7,4.4
+50062,61,Beauty,3599,3,Credit Card,9,4.8
+50063,54,Fashion,8435,2,UPI,6,3.3
+50064,63,Sports,16772,4,UPI,4,1.0
+50065,50,Beauty,6323,6,UPI,1,4.5
+50066,40,Home Decor,13281,8,Cash On Delivery,2,1.3
+50067,52,Grocery,16200,7,Credit Card,5,4.8
+50068,29,Fashion,1751,4,Credit Card,8,3.6
+50069,48,Electronics,9287,8,Cash On Delivery,3,5.0
+50070,39,Beauty,12851,4,Debit Card,3,1.5
+50071,57,Fashion,4549,3,UPI,2,2.0
+50072,22,Fashion,4161,1,NetBanking,1,4.8
+50073,21,Electronics,15016,9,Cash On Delivery,6,3.8
+50074,61,Fashion,5332,1,UPI,9,3.5
+50075,25,Electronics,1246,9,UPI,2,4.3
+50076,26,Beauty,11820,2,Credit Card,7,3.0
+50077,21,Home Decor,14718,1,UPI,5,3.4
+50078,24,Electronics,6716,5,Cash On Delivery,8,3.9
+50079,59,Grocery,11002,3,Cash On Delivery,4,1.4
+50080,41,Home Decor,19635,8,Credit Card,2,1.6
+50081,60,Grocery,4295,2,Credit Card,8,3.0
+50082,28,Electronics,3834,7,Debit Card,7,1.4
+50083,59,Sports,6320,8,Debit Card,6,2.5
+50084,29,Sports,17377,3,UPI,5,4.8
+50085,34,Grocery,6404,6,Debit Card,2,4.7
+50086,45,Home Decor,8608,2,Debit Card,2,4.1
+50087,60,Electronics,9884,8,Credit Card,1,3.4
+50088,19,Grocery,17029,2,NetBanking,4,4.7
+50089,24,Grocery,5153,2,Debit Card,3,3.9
+50090,50,Electronics,10822,1,NetBanking,4,2.6
+50091,44,Sports,16681,5,Debit Card,7,3.3
+50092,66,Beauty,18319,4,Debit Card,3,1.8
+50093,52,Sports,232,7,NetBanking,3,3.0
+50094,50,Home Decor,17984,6,UPI,1,3.0
+50095,60,Beauty,16970,6,UPI,8,3.7
+50096,42,Electronics,6979,6,UPI,6,3.5
+50097,40,Electronics,18040,2,Cash On Delivery,8,2.2
+50098,62,Home Decor,4070,2,Debit Card,6,3.2
+50099,29,Sports,771,8,UPI,5,2.5
+50100,49,Grocery,17783,4,NetBanking,1,2.9
+50101,30,Home Decor,13795,9,UPI,2,1.2
+50102,39,Beauty,9715,4,Cash On Delivery,1,2.0
+50103,60,Electronics,5224,8,Credit Card,3,3.9
+50104,30,Home Decor,1947,1,NetBanking,8,3.1
+50105,53,Sports,18572,5,UPI,1,1.2
+50106,54,Fashion,14632,8,UPI,5,4.9
+50107,56,Fashion,14269,1,NetBanking,5,4.8
+50108,61,Fashion,4569,5,UPI,3,3.9
+50109,68,Beauty,8768,1,Debit Card,9,1.7
+50110,68,Sports,1953,8,Cash On Delivery,6,3.8
+50111,63,Fashion,4225,4,Cash On Delivery,2,4.3
+50112,53,Grocery,12141,2,UPI,3,3.6
+50113,50,Electronics,589,6,Cash On Delivery,8,3.0
+50114,41,Electronics,3888,8,NetBanking,4,2.2
+50115,56,Electronics,17828,5,Cash On Delivery,8,3.7
+50116,46,Grocery,1855,9,Debit Card,9,4.8
+50117,61,Fashion,10138,6,UPI,9,4.5
+50118,34,Beauty,3045,7,Credit Card,8,4.1
+50119,31,Sports,17929,6,NetBanking,3,1.3
+50120,20,Home Decor,10896,1,Debit Card,3,4.2
+50121,43,Sports,10555,7,Credit Card,1,3.6
+50122,58,Electronics,3859,2,Cash On Delivery,6,4.1
+50123,55,Fashion,11001,1,UPI,8,3.6
+50124,60,Beauty,5681,5,Cash On Delivery,1,3.0
+50125,66,Fashion,4367,7,NetBanking,1,2.9
+50126,30,Grocery,3285,2,NetBanking,7,3.5
+50127,39,Electronics,14453,2,Cash On Delivery,8,2.8
+50128,38,Beauty,4951,3,NetBanking,1,4.7
+50129,33,Electronics,18438,3,Cash On Delivery,7,2.6
+50130,40,Fashion,4905,5,UPI,7,1.3
+50131,46,Sports,10135,9,UPI,4,2.8
+50132,53,Electronics,11575,8,NetBanking,7,4.2
+50133,38,Electronics,9894,2,NetBanking,4,4.5
+50134,59,Fashion,4130,8,Credit Card,2,1.9
+50135,26,Grocery,5183,8,Credit Card,7,2.6
+50136,57,Grocery,11205,7,Debit Card,6,2.1
+50137,27,Electronics,214,2,NetBanking,7,3.7
+50138,51,Beauty,4557,3,Cash On Delivery,7,1.9
+50139,38,Beauty,6541,7,Cash On Delivery,8,2.0
+50140,38,Fashion,2368,6,Cash On Delivery,4,2.2
+50141,52,Home Decor,3394,3,UPI,4,1.0
+50142,45,Sports,12517,1,Cash On Delivery,6,1.3
+50143,35,Electronics,8080,2,NetBanking,8,2.2
+50144,24,Grocery,15700,4,NetBanking,3,2.2
+50145,28,Sports,5156,9,Cash On Delivery,4,1.3
+50146,19,Beauty,15359,6,NetBanking,8,2.2
+50147,68,Sports,11369,3,NetBanking,1,3.5
+50148,63,Sports,19221,7,UPI,6,3.0
+50149,33,Electronics,10242,5,UPI,7,3.0
+50150,21,Electronics,12037,1,Credit Card,7,4.7
+50151,26,Grocery,8007,1,Credit Card,7,4.2
+50152,55,Grocery,4994,9,Credit Card,7,4.3
+50153,67,Home Decor,9557,5,UPI,2,3.3
+50154,47,Sports,1951,4,UPI,7,3.9
+50155,35,Beauty,18362,9,NetBanking,5,4.6
+50156,38,Beauty,6688,8,Cash On Delivery,5,3.5
+50157,52,Electronics,18273,6,NetBanking,8,4.7
+50158,48,Sports,16787,2,Cash On Delivery,1,1.3
+50159,50,Sports,16331,2,UPI,3,1.5
+50160,37,Home Decor,15899,3,Cash On Delivery,2,2.4
+50161,58,Fashion,4404,8,Credit Card,3,4.3
+50162,20,Sports,3533,5,Cash On Delivery,4,3.7
+50163,24,Home Decor,18196,9,Credit Card,9,1.7
+50164,50,Fashion,13534,3,Cash On Delivery,8,1.5
+50165,35,Electronics,17096,7,UPI,9,4.0
+50166,67,Sports,12356,1,Cash On Delivery,5,3.0
+50167,49,Electronics,7233,5,Cash On Delivery,5,1.7
+50168,42,Beauty,18834,1,Debit Card,8,2.2
+50169,37,Sports,3755,4,NetBanking,8,3.4
+50170,55,Grocery,12170,5,Cash On Delivery,7,4.6
+50171,50,Electronics,3723,2,Credit Card,3,3.2
+50172,56,Grocery,3028,3,Credit Card,7,2.6
+50173,46,Grocery,8302,8,Cash On Delivery,4,4.9
+50174,46,Fashion,13706,3,Credit Card,8,2.7
+50175,65,Beauty,16316,7,UPI,3,3.5
+50176,20,Beauty,18331,5,Credit Card,8,3.3
+50177,39,Fashion,11819,7,Credit Card,2,1.6
+50178,64,Electronics,19812,9,NetBanking,4,1.0
+50179,49,Sports,1666,2,Debit Card,8,2.8
+50180,34,Sports,5999,3,NetBanking,4,3.2
+50181,25,Sports,14897,1,Credit Card,8,2.6
+50182,34,Electronics,6075,6,Debit Card,9,3.7
+50183,25,Electronics,19980,5,Credit Card,1,1.4
+50184,28,Beauty,19265,5,Cash On Delivery,1,2.0
+50185,19,Grocery,4066,8,NetBanking,1,4.6
+50186,38,Sports,14112,5,UPI,1,3.1
+50187,40,Home Decor,17839,3,Debit Card,3,3.2
+50188,40,Grocery,10659,6,Debit Card,2,2.8
+50189,66,Beauty,3683,2,Cash On Delivery,1,2.1
+50190,40,Grocery,712,3,Credit Card,4,3.8
+50191,56,Grocery,9388,1,Credit Card,4,3.0
+50192,63,Beauty,3671,7,Debit Card,8,3.3
+50193,65,Sports,15010,5,Debit Card,6,2.2
+50194,26,Electronics,19959,6,NetBanking,3,1.6
+50195,23,Fashion,1079,6,UPI,4,3.5
+50196,54,Grocery,11778,9,Credit Card,4,1.0
+50197,49,Fashion,331,8,Debit Card,8,3.5
+50198,23,Grocery,9616,2,Credit Card,8,3.0
+50199,21,Grocery,17302,3,NetBanking,3,3.9
+50200,55,Home Decor,19700,5,NetBanking,5,1.2
+50201,64,Electronics,17186,8,Debit Card,5,1.1
+50202,67,Grocery,8694,7,Credit Card,3,3.0
+50203,49,Fashion,14346,8,NetBanking,4,1.2
+50204,57,Electronics,3403,2,NetBanking,3,2.4
+50205,67,Beauty,4341,1,NetBanking,5,3.2
+50206,45,Beauty,13646,2,Cash On Delivery,9,1.1
+50207,46,Beauty,17376,6,Debit Card,1,1.3
+50208,68,Electronics,19475,8,NetBanking,6,4.7
+50209,51,Beauty,5068,3,Cash On Delivery,2,2.1
+50210,19,Home Decor,17276,4,UPI,2,1.7
+50211,20,Grocery,9395,1,Debit Card,9,2.2
+50212,29,Electronics,1800,2,Credit Card,8,1.5
+50213,68,Home Decor,11184,2,Credit Card,9,1.9
+50214,25,Electronics,18185,5,Cash On Delivery,3,1.0
+50215,51,Sports,15059,2,Debit Card,8,2.5
+50216,53,Beauty,14879,8,UPI,6,4.4
+50217,36,Sports,12017,1,UPI,6,4.8
+50218,20,Sports,880,6,NetBanking,6,1.4
+50219,69,Home Decor,8668,4,UPI,1,4.7
+50220,59,Sports,17355,3,Credit Card,2,2.3
+50221,27,Electronics,3968,7,UPI,2,4.1
+50222,50,Grocery,8243,9,UPI,9,2.7
+50223,27,Fashion,11652,3,Debit Card,6,4.7
+50224,39,Electronics,12481,5,Debit Card,8,1.6
+50225,52,Grocery,19182,6,Cash On Delivery,5,4.0
+50226,51,Fashion,6151,7,Credit Card,7,2.7
+50227,50,Electronics,6367,7,Credit Card,9,3.9
+50228,53,Beauty,9428,4,NetBanking,5,2.4
+50229,41,Electronics,4251,2,Cash On Delivery,9,4.1
+50230,47,Grocery,1400,1,Debit Card,8,2.1
+50231,66,Beauty,9284,3,Cash On Delivery,8,4.3
+50232,52,Home Decor,2399,8,UPI,6,1.1
+50233,61,Electronics,18631,5,Credit Card,9,4.2
+50234,57,Fashion,10241,1,Cash On Delivery,9,4.1
+50235,23,Fashion,10105,4,Credit Card,9,3.8
+50236,22,Sports,13599,8,Credit Card,3,1.6
+50237,66,Home Decor,9056,9,UPI,5,1.0
+50238,23,Beauty,12199,9,Credit Card,8,1.6
+50239,44,Electronics,19331,2,UPI,5,1.4
+50240,20,Home Decor,11393,4,NetBanking,5,3.6
+50241,34,Fashion,19230,8,UPI,4,4.5
+50242,51,Sports,18753,3,NetBanking,3,3.2
+50243,47,Home Decor,17528,5,Cash On Delivery,3,4.4
+50244,42,Grocery,12633,9,UPI,2,3.4
+50245,54,Beauty,16599,6,UPI,1,1.0
+50246,32,Electronics,4624,6,Debit Card,7,1.1
+50247,29,Home Decor,8646,6,UPI,7,3.4
+50248,34,Electronics,1500,8,Cash On Delivery,2,5.0
+50249,19,Electronics,14465,9,Debit Card,9,3.0
+50250,53,Electronics,15243,4,Credit Card,2,3.5
+50251,40,Beauty,14986,4,Cash On Delivery,4,2.7
+50252,20,Beauty,19538,3,Debit Card,9,2.3
+50253,38,Electronics,8051,6,Debit Card,3,1.7
+50254,64,Electronics,10222,6,Credit Card,5,3.7
+50255,51,Sports,12411,2,NetBanking,8,3.2
+50256,25,Electronics,16090,1,NetBanking,1,3.2
+50257,61,Electronics,3834,9,NetBanking,7,3.4
+50258,51,Fashion,6031,6,Debit Card,3,3.6
+50259,56,Fashion,5617,6,Debit Card,1,2.2
+50260,31,Fashion,18709,5,Credit Card,5,3.4
+50261,50,Sports,5927,7,Cash On Delivery,9,3.1
+50262,56,Grocery,13055,7,UPI,3,1.6
+50263,48,Home Decor,11701,2,Credit Card,2,4.0
+50264,58,Home Decor,13631,2,UPI,4,2.4
+50265,27,Home Decor,1573,9,Credit Card,9,4.4
+50266,27,Electronics,1528,9,UPI,4,1.0
+50267,34,Fashion,16511,6,Credit Card,9,4.7
+50268,66,Fashion,6406,8,UPI,8,1.3
+50269,57,Beauty,12431,7,NetBanking,9,3.1
+50270,46,Electronics,15990,8,NetBanking,9,4.4
+50271,66,Sports,7633,3,NetBanking,7,1.4
+50272,20,Home Decor,6434,6,Credit Card,4,3.3
+50273,46,Fashion,732,4,UPI,6,1.0
+50274,39,Fashion,5414,7,Cash On Delivery,1,4.0
+50275,18,Electronics,18986,4,Cash On Delivery,2,3.1
+50276,63,Grocery,5652,2,UPI,8,3.4
+50277,29,Fashion,19421,5,UPI,7,1.8
+50278,53,Home Decor,12953,1,UPI,7,4.9
+50279,63,Fashion,984,6,Cash On Delivery,7,3.9
+50280,30,Sports,14479,8,Cash On Delivery,1,5.0
+50281,59,Fashion,11140,8,NetBanking,4,1.5
+50282,41,Home Decor,19617,6,Credit Card,6,3.8
+50283,67,Electronics,4504,1,Debit Card,5,4.1
+50284,31,Grocery,691,5,Cash On Delivery,7,1.1
+50285,28,Home Decor,13389,8,Credit Card,7,3.3
+50286,63,Grocery,8744,4,Debit Card,4,1.1
+50287,23,Beauty,7408,7,NetBanking,1,1.2
+50288,27,Grocery,5562,6,Debit Card,3,4.3
+50289,29,Home Decor,13572,5,Debit Card,9,3.4
+50290,61,Fashion,14864,5,NetBanking,6,1.5
+50291,31,Beauty,5401,4,Credit Card,5,2.3
+50292,49,Beauty,4705,5,Debit Card,9,4.9
+50293,39,Fashion,14985,2,Cash On Delivery,6,1.1
+50294,48,Grocery,15471,3,Credit Card,6,4.3
+50295,29,Fashion,10891,7,Credit Card,2,1.9
+50296,19,Sports,5415,2,Debit Card,3,1.5
+50297,45,Home Decor,163,3,UPI,4,1.4
+50298,20,Grocery,15847,7,Cash On Delivery,1,1.4
+50299,45,Beauty,14407,8,Credit Card,3,1.1
+50300,56,Beauty,19271,4,NetBanking,6,3.0
+50301,27,Beauty,2643,2,NetBanking,3,4.7
+50302,20,Beauty,17216,9,NetBanking,6,3.5
+50303,29,Beauty,13208,5,Credit Card,4,4.4
+50304,40,Home Decor,4689,7,NetBanking,3,4.3
+50305,51,Sports,13801,7,Debit Card,1,2.9
+50306,34,Sports,9748,5,Debit Card,3,2.0
+50307,31,Home Decor,4471,4,UPI,7,3.7
+50308,57,Home Decor,5496,1,NetBanking,8,4.0
+50309,20,Sports,156,6,Debit Card,9,4.5
+50310,57,Electronics,16141,5,Debit Card,4,3.6
+50311,29,Beauty,6567,2,UPI,7,3.7
+50312,60,Fashion,11668,7,UPI,3,4.9
+50313,53,Sports,8920,6,NetBanking,1,2.4
+50314,32,Grocery,301,6,Debit Card,4,4.9
+50315,40,Fashion,5522,1,UPI,6,3.4
+50316,56,Sports,13060,9,Cash On Delivery,5,3.6
+50317,24,Beauty,17637,4,Debit Card,8,4.3
+50318,36,Beauty,5057,7,UPI,2,2.0
+50319,44,Beauty,6799,4,Cash On Delivery,4,1.1
+50320,40,Home Decor,9563,4,Debit Card,3,1.8
+50321,54,Home Decor,15942,6,Cash On Delivery,8,2.8
+50322,22,Home Decor,14501,3,UPI,1,4.3
+50323,59,Home Decor,12271,7,Credit Card,2,4.4
+50324,44,Electronics,8233,2,Debit Card,4,4.4
+50325,68,Electronics,673,3,Debit Card,7,4.2
+50326,46,Fashion,3810,1,UPI,2,3.8
+50327,41,Fashion,1992,7,Cash On Delivery,9,3.0
+50328,37,Fashion,8516,4,NetBanking,2,1.6
+50329,63,Fashion,6217,3,Credit Card,2,2.6
+50330,54,Grocery,5621,4,Debit Card,7,1.2
+50331,24,Electronics,7923,5,UPI,8,1.4
+50332,44,Grocery,12604,3,NetBanking,1,3.7
+50333,52,Electronics,10307,4,NetBanking,2,3.9
+50334,62,Fashion,18837,2,Cash On Delivery,6,3.9
+50335,38,Electronics,18999,3,Credit Card,5,4.3
+50336,48,Sports,6344,1,Debit Card,3,2.4
+50337,57,Sports,7661,4,NetBanking,3,1.9
+50338,56,Home Decor,8850,9,Debit Card,8,1.3
+50339,65,Fashion,18102,9,UPI,2,4.1
+50340,47,Fashion,8903,8,Debit Card,3,5.0
+50341,34,Grocery,6452,6,Cash On Delivery,5,4.9
+50342,58,Grocery,2088,5,NetBanking,7,1.0
+50343,25,Grocery,16991,7,Cash On Delivery,6,3.2
+50344,68,Fashion,8712,5,Debit Card,8,4.8
+50345,50,Fashion,17355,9,UPI,9,2.6
+50346,19,Sports,5026,7,Credit Card,3,4.2
+50347,66,Sports,476,8,NetBanking,1,4.6
+50348,61,Grocery,16028,5,NetBanking,3,2.3
+50349,51,Fashion,17729,7,Credit Card,7,1.6
+50350,52,Electronics,5409,2,UPI,5,1.7
+50351,45,Fashion,6225,8,NetBanking,3,2.5
+50352,21,Beauty,6196,4,Cash On Delivery,9,3.8
+50353,21,Grocery,10525,4,UPI,1,4.7
+50354,38,Electronics,9252,9,Debit Card,9,1.2
+50355,62,Sports,7889,7,Cash On Delivery,8,2.9
+50356,41,Fashion,17787,3,UPI,6,1.7
+50357,51,Home Decor,8986,8,Debit Card,6,4.7
+50358,25,Grocery,9726,8,Credit Card,4,1.8
+50359,52,Electronics,3309,3,Credit Card,2,4.7
+50360,32,Grocery,14057,3,Debit Card,2,2.6
+50361,69,Fashion,19744,6,Debit Card,2,3.6
+50362,69,Sports,11242,7,Debit Card,4,4.5
+50363,61,Fashion,2852,7,UPI,4,2.0
+50364,48,Electronics,5057,2,Credit Card,8,1.7
+50365,44,Grocery,3254,1,Debit Card,5,4.0
+50366,56,Home Decor,13386,6,Debit Card,1,3.5
+50367,57,Home Decor,3401,8,Debit Card,5,4.9
+50368,41,Sports,10312,1,Debit Card,1,1.1
+50369,60,Grocery,4325,8,Credit Card,1,3.9
+50370,45,Grocery,18432,6,Debit Card,6,2.6
+50371,51,Fashion,8789,8,NetBanking,5,4.9
+50372,38,Grocery,14282,9,Cash On Delivery,3,4.0
+50373,33,Sports,586,2,NetBanking,9,5.0
+50374,62,Electronics,4182,4,NetBanking,9,4.7
+50375,29,Grocery,3660,8,Credit Card,9,2.7
+50376,22,Electronics,11313,8,NetBanking,7,4.9
+50377,48,Home Decor,19126,4,UPI,3,2.4
+50378,23,Home Decor,14221,2,UPI,8,4.7
+50379,18,Beauty,16728,5,UPI,5,3.2
+50380,35,Fashion,6652,3,Debit Card,5,2.4
+50381,21,Grocery,9049,6,NetBanking,5,1.6
+50382,69,Sports,8368,7,Cash On Delivery,8,4.3
+50383,50,Electronics,2634,9,UPI,9,1.6
+50384,18,Sports,16893,4,Credit Card,3,3.6
+50385,51,Beauty,19216,6,Debit Card,7,3.0
+50386,60,Beauty,12169,8,Cash On Delivery,7,2.3
+50387,68,Fashion,332,9,Cash On Delivery,6,4.2
+50388,18,Sports,10822,4,Credit Card,1,4.5
+50389,62,Electronics,15640,3,Debit Card,1,2.2
+50390,21,Beauty,9276,5,UPI,9,1.4
+50391,19,Beauty,9018,6,Credit Card,5,1.7
+50392,33,Fashion,15216,6,Credit Card,8,1.4
+50393,24,Beauty,8692,6,UPI,9,1.4
+50394,34,Beauty,12903,3,UPI,8,3.0
+50395,65,Grocery,11824,5,Debit Card,4,4.2
+50396,19,Electronics,18083,8,Cash On Delivery,1,3.5
+50397,54,Grocery,16076,7,NetBanking,4,2.1
+50398,29,Grocery,13542,7,Cash On Delivery,8,2.4
+50399,34,Sports,17332,2,Debit Card,2,1.3
+50400,68,Beauty,19278,7,UPI,8,1.7
+50401,53,Fashion,1576,6,UPI,5,3.3
+50402,64,Sports,11338,1,NetBanking,1,1.5
+50403,60,Fashion,3102,5,Debit Card,6,2.7
+50404,44,Fashion,14103,6,Credit Card,5,1.8
+50405,58,Electronics,2649,9,Debit Card,3,4.1
+50406,54,Electronics,18421,9,Debit Card,5,1.3
+50407,34,Sports,17816,5,Credit Card,2,3.9
+50408,36,Grocery,2608,2,UPI,4,3.4
+50409,57,Fashion,3256,7,Cash On Delivery,6,2.7
+50410,26,Fashion,12817,7,Credit Card,9,4.5
+50411,26,Fashion,2907,8,Credit Card,5,4.2
+50412,45,Fashion,8216,4,Cash On Delivery,5,1.9
+50413,46,Fashion,11994,5,Credit Card,5,2.1
+50414,63,Beauty,16231,1,NetBanking,1,1.6
+50415,20,Grocery,10206,6,Credit Card,3,3.7
+50416,38,Electronics,7690,1,Cash On Delivery,4,2.2
+50417,42,Sports,9265,4,NetBanking,9,3.3
+50418,59,Electronics,16998,8,NetBanking,9,2.1
+50419,48,Electronics,14330,6,UPI,7,4.1
+50420,33,Beauty,2136,7,Cash On Delivery,4,4.7
+50421,57,Electronics,7698,4,Credit Card,5,2.5
+50422,66,Grocery,8704,6,Debit Card,2,1.6
+50423,31,Fashion,10221,6,Cash On Delivery,9,1.0
+50424,30,Fashion,4842,3,Debit Card,9,2.9
+50425,66,Electronics,16533,4,Credit Card,7,1.6
+50426,53,Fashion,9117,9,NetBanking,4,3.1
+50427,62,Electronics,8035,6,Cash On Delivery,9,1.3
+50428,25,Beauty,2609,4,Debit Card,8,4.8
+50429,68,Home Decor,6401,8,Credit Card,4,2.1
+50430,66,Fashion,10031,4,Debit Card,6,3.7
+50431,20,Electronics,18611,9,NetBanking,6,2.8
+50432,29,Beauty,11471,4,Cash On Delivery,6,3.9
+50433,55,Beauty,4385,8,Credit Card,9,1.8
+50434,20,Sports,9032,4,Debit Card,7,3.0
+50435,23,Beauty,11884,6,Cash On Delivery,3,3.0
+50436,18,Beauty,5607,3,Cash On Delivery,3,3.8
+50437,58,Sports,4535,1,NetBanking,1,4.0
+50438,30,Home Decor,10492,2,NetBanking,6,2.0
+50439,69,Grocery,11928,1,Debit Card,4,1.3
+50440,33,Beauty,11372,9,Debit Card,4,1.1
+50441,25,Sports,12263,3,Cash On Delivery,7,3.4
+50442,46,Electronics,5990,2,Credit Card,5,1.6
+50443,38,Electronics,13547,1,NetBanking,5,1.1
+50444,45,Fashion,13668,3,Credit Card,1,2.5
+50445,55,Sports,1765,8,NetBanking,4,3.4
+50446,64,Grocery,12339,4,NetBanking,8,3.9
+50447,36,Beauty,5207,2,Credit Card,7,1.2
+50448,45,Sports,17809,3,NetBanking,8,1.5
+50449,52,Grocery,1159,9,NetBanking,2,2.9
+50450,60,Beauty,14520,5,NetBanking,2,3.1
+50451,40,Beauty,9589,3,Credit Card,8,2.2
+50452,41,Home Decor,16012,6,Debit Card,1,4.0
+50453,62,Beauty,7031,3,Cash On Delivery,3,3.6
+50454,54,Sports,9269,3,NetBanking,4,1.9
+50455,66,Sports,18470,5,Debit Card,2,1.9
+50456,26,Beauty,16960,7,Cash On Delivery,5,3.1
+50457,29,Grocery,19880,2,Debit Card,8,4.1
+50458,61,Grocery,2676,8,UPI,5,1.7
+50459,39,Sports,15532,4,Credit Card,5,3.0
+50460,57,Beauty,6277,1,NetBanking,1,3.6
+50461,62,Fashion,12521,4,Credit Card,1,5.0
+50462,40,Sports,3108,3,Cash On Delivery,3,1.4
+50463,65,Beauty,15030,2,UPI,8,2.9
+50464,25,Beauty,2655,8,NetBanking,8,3.3
+50465,52,Electronics,13963,8,UPI,2,1.1
+50466,68,Home Decor,13512,2,Credit Card,5,1.5
+50467,47,Beauty,5444,4,UPI,2,3.6
+50468,18,Grocery,1582,6,Debit Card,7,2.0
+50469,52,Beauty,15428,4,Debit Card,7,4.0
+50470,19,Sports,18803,7,Cash On Delivery,4,1.6
+50471,33,Beauty,2679,6,Debit Card,2,2.7
+50472,39,Sports,19623,2,UPI,6,1.1
+50473,22,Electronics,6462,2,Credit Card,3,2.6
+50474,34,Fashion,12958,9,Cash On Delivery,8,2.1
+50475,48,Grocery,18460,9,UPI,4,4.6
+50476,38,Home Decor,10024,3,Credit Card,7,3.0
+50477,32,Home Decor,1513,6,NetBanking,9,2.9
+50478,29,Beauty,8486,4,Credit Card,5,3.3
+50479,41,Electronics,3689,7,Cash On Delivery,2,4.3
+50480,18,Home Decor,7913,4,Cash On Delivery,9,3.0
+50481,49,Home Decor,1565,1,NetBanking,1,4.7
+50482,58,Electronics,10842,7,Cash On Delivery,6,2.3
+50483,65,Home Decor,2448,1,UPI,3,2.4
+50484,57,Grocery,17029,9,UPI,4,2.7
+50485,22,Beauty,19087,6,Credit Card,8,4.7
+50486,41,Electronics,7805,2,Debit Card,6,1.0
+50487,69,Electronics,7033,9,Debit Card,2,3.9
+50488,38,Fashion,12130,7,Credit Card,2,4.3
+50489,42,Sports,932,5,Debit Card,3,2.5
+50490,28,Grocery,6488,8,UPI,7,2.9
+50491,43,Fashion,2109,8,Debit Card,2,4.6
+50492,39,Sports,3647,7,NetBanking,4,4.7
+50493,26,Home Decor,15446,9,Cash On Delivery,4,2.3
+50494,19,Beauty,16992,3,NetBanking,1,4.4
+50495,56,Sports,7237,1,Debit Card,6,3.7
+50496,32,Beauty,8854,1,Credit Card,9,3.5
+50497,67,Beauty,7273,3,Cash On Delivery,7,2.4
+50498,30,Fashion,10782,3,NetBanking,7,3.4
+50499,40,Home Decor,5467,7,Cash On Delivery,3,4.8
+50500,66,Sports,6934,3,Debit Card,4,4.3
+50501,22,Sports,6806,1,Credit Card,9,2.9
+50502,65,Beauty,3778,8,UPI,2,4.2
+50503,47,Grocery,11558,9,Cash On Delivery,2,3.0
+50504,55,Sports,19849,5,NetBanking,1,2.0
+50505,65,Home Decor,17631,4,Debit Card,2,2.1
+50506,37,Sports,4590,8,Credit Card,4,2.9
+50507,32,Home Decor,3524,5,UPI,9,4.6
+50508,25,Beauty,13337,6,Debit Card,1,3.8
+50509,35,Fashion,16177,5,Debit Card,6,2.8
+50510,66,Electronics,18405,9,Cash On Delivery,4,4.8
+50511,34,Electronics,13897,4,NetBanking,6,2.0
+50512,35,Sports,8546,7,NetBanking,2,2.4
+50513,32,Electronics,15642,8,Debit Card,4,3.3
+50514,34,Home Decor,10765,8,Credit Card,9,1.8
+50515,26,Fashion,509,6,Credit Card,8,4.9
+50516,35,Sports,6598,1,Credit Card,9,2.1
+50517,53,Grocery,12350,3,Cash On Delivery,5,3.3
+50518,47,Sports,15090,1,Credit Card,2,1.1
+50519,56,Grocery,8691,8,Cash On Delivery,4,4.8
+50520,35,Home Decor,4755,6,Debit Card,9,3.8
+50521,34,Electronics,4705,7,Cash On Delivery,2,2.1
+50522,38,Home Decor,17308,6,Debit Card,9,3.9
+50523,66,Sports,2047,4,Debit Card,6,4.3
+50524,29,Electronics,16788,2,Credit Card,6,3.5
+50525,35,Home Decor,15786,5,NetBanking,2,3.6
+50526,25,Electronics,11894,5,Cash On Delivery,2,1.4
+50527,50,Grocery,2730,8,NetBanking,5,3.6
+50528,28,Beauty,7667,2,Credit Card,2,2.0
+50529,31,Beauty,7071,1,NetBanking,7,1.4
+50530,52,Grocery,805,8,Debit Card,8,2.6
+50531,37,Fashion,5480,1,Cash On Delivery,1,2.6
+50532,40,Fashion,14913,2,Cash On Delivery,4,1.0
+50533,52,Electronics,4540,7,UPI,4,4.7
+50534,36,Grocery,6444,1,Cash On Delivery,1,2.7
+50535,55,Electronics,5155,7,NetBanking,2,4.8
+50536,45,Grocery,10426,9,UPI,6,3.2
+50537,22,Home Decor,5298,7,Credit Card,1,1.1
+50538,69,Sports,17717,1,Cash On Delivery,7,1.1
+50539,44,Fashion,10121,8,UPI,9,4.5
+50540,49,Home Decor,6050,9,Credit Card,9,2.2
+50541,60,Home Decor,3639,1,NetBanking,8,4.5
+50542,52,Grocery,16349,1,Credit Card,3,1.5
+50543,56,Sports,7621,7,NetBanking,8,2.3
+50544,23,Home Decor,15243,2,Credit Card,3,4.2
+50545,30,Sports,14314,3,Cash On Delivery,4,1.7
+50546,52,Electronics,1939,5,Debit Card,9,3.1
+50547,34,Grocery,5325,8,Credit Card,2,3.4
+50548,37,Home Decor,6599,7,Cash On Delivery,3,4.4
+50549,46,Sports,16169,6,Debit Card,6,2.4
+50550,24,Electronics,2674,8,UPI,8,3.9
+50551,50,Fashion,15379,4,Cash On Delivery,6,4.2
+50552,65,Electronics,17132,9,NetBanking,6,1.3
+50553,39,Sports,14139,4,Credit Card,6,2.1
+50554,22,Fashion,18300,6,Debit Card,6,2.9
+50555,23,Electronics,7340,6,Cash On Delivery,4,3.7
+50556,33,Electronics,4789,9,Cash On Delivery,1,4.6
+50557,50,Grocery,10267,3,Debit Card,8,4.3
+50558,31,Electronics,15595,4,Debit Card,5,1.1
+50559,38,Beauty,14684,1,UPI,7,1.7
+50560,26,Electronics,12237,9,NetBanking,8,3.6
+50561,41,Electronics,5546,1,Debit Card,5,2.2
+50562,66,Home Decor,2900,2,Credit Card,6,2.4
+50563,66,Fashion,2533,8,UPI,3,5.0
+50564,47,Grocery,9235,2,UPI,4,2.0
+50565,52,Home Decor,9197,5,NetBanking,2,2.0
+50566,19,Fashion,13150,3,NetBanking,3,4.2
+50567,66,Sports,591,4,Cash On Delivery,7,2.3
+50568,67,Grocery,16082,1,Cash On Delivery,3,4.4
+50569,36,Fashion,13843,2,Debit Card,8,2.0
+50570,29,Electronics,16571,7,UPI,4,4.7
+50571,18,Fashion,13277,2,Credit Card,4,3.5
+50572,22,Fashion,15350,4,Cash On Delivery,1,4.6
+50573,60,Beauty,5997,3,Cash On Delivery,7,1.2
+50574,69,Fashion,17646,7,Credit Card,9,2.2
+50575,59,Beauty,9774,3,NetBanking,8,2.5
+50576,65,Fashion,9471,2,NetBanking,5,4.1
+50577,45,Sports,2475,6,Debit Card,7,1.8
+50578,68,Fashion,17754,4,Cash On Delivery,7,2.0
+50579,51,Grocery,17764,1,Credit Card,3,4.7
+50580,45,Sports,13719,3,Debit Card,4,3.2
+50581,46,Home Decor,12058,4,Cash On Delivery,9,3.5
+50582,26,Home Decor,19481,5,NetBanking,5,2.0
+50583,69,Beauty,8818,8,Credit Card,2,1.7
+50584,46,Home Decor,3800,3,Cash On Delivery,3,4.6
+50585,40,Sports,11661,5,Cash On Delivery,1,3.9
+50586,59,Beauty,12158,3,NetBanking,1,4.8
+50587,54,Fashion,570,9,UPI,8,3.5
+50588,61,Grocery,19587,1,UPI,8,1.9
+50589,62,Sports,17086,2,Cash On Delivery,5,1.8
+50590,37,Beauty,10768,3,UPI,5,3.1
+50591,19,Beauty,18911,4,Cash On Delivery,9,3.6
+50592,66,Fashion,7658,3,NetBanking,4,4.6
+50593,42,Electronics,4510,5,UPI,1,2.1
+50594,53,Grocery,4655,6,Debit Card,6,1.5
+50595,55,Sports,18520,7,Cash On Delivery,2,2.4
+50596,62,Electronics,279,4,Debit Card,8,5.0
+50597,36,Home Decor,8112,5,Debit Card,9,4.3
+50598,45,Fashion,5932,9,Cash On Delivery,5,3.2
+50599,30,Home Decor,9664,2,Cash On Delivery,8,1.7
+50600,28,Fashion,17367,1,NetBanking,3,2.6
